@@ -9,6 +9,16 @@ plain-language diagnosis — what failed, why, and what to check next. Every
 call is stored, so you can scroll back through a session's history, and any
 failed request can be tweaked and replayed in place without leaving the tool.
 
+## Screenshots
+
+| Live feed + request inspector | Error analysis |
+|---|---|
+| ![Dashboard with live feed](docs/screenshots/dashboard.png) | ![Analysis tab showing detected issues](docs/screenshots/analysis.png) |
+
+| Response tab | Replay modal |
+|---|---|
+| ![Response tab with real headers](docs/screenshots/response.png) | ![Replay modal pre-filled from original request](docs/screenshots/replay-modal.png) |
+
 ## Architecture
 
 ```
