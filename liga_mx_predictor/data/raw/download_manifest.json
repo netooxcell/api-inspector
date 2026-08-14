@@ -1,0 +1,265 @@
+{
+  "downloaded_at_utc": "2026-08-14T23:52:47.667511+00:00",
+  "footballcsv": [
+    {
+      "season": "2000-01",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2000-01/mx.1.csv"
+    },
+    {
+      "season": "2001-02",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2001-02/mx.1.csv"
+    },
+    {
+      "season": "2002-03",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2002-03/mx.1.csv"
+    },
+    {
+      "season": "2003-04",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2003-04/mx.1.csv"
+    },
+    {
+      "season": "2004-05",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2004-05/mx.1.csv"
+    },
+    {
+      "season": "2005-06",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2005-06/mx.1.csv"
+    },
+    {
+      "season": "2006-07",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2006-07/mx.1.csv"
+    },
+    {
+      "season": "2007-08",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2007-08/mx.1.csv"
+    },
+    {
+      "season": "2008-09",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2008-09/mx.1.csv"
+    },
+    {
+      "season": "2009-10",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2009-10/mx.1.csv"
+    },
+    {
+      "season": "2010-11",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2010-11/mx.1.csv"
+    },
+    {
+      "season": "2011-12",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2011-12/mx.1.csv"
+    },
+    {
+      "season": "2012-13",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2012-13/mx.1.csv"
+    },
+    {
+      "season": "2013-14",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2013-14/mx.1.csv"
+    },
+    {
+      "season": "2014-15",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2014-15/mx.1.csv"
+    },
+    {
+      "season": "2015-16",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2015-16/mx.1.csv"
+    },
+    {
+      "season": "2016-17",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2016-17/mx.1.csv"
+    },
+    {
+      "season": "2017-18",
+      "status": "missing (HTTP 404)",
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2017-18/mx.1.csv"
+    },
+    {
+      "season": "2018-19",
+      "status": "ok",
+      "rows": 335,
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2018-19/mx.1.csv"
+    },
+    {
+      "season": "2019-20",
+      "status": "ok",
+      "rows": 339,
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2019-20/mx.1.csv"
+    },
+    {
+      "season": "2020-21",
+      "status": "ok",
+      "rows": 343,
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2020-21/mx.1.csv"
+    },
+    {
+      "season": "2021-22",
+      "status": "ok",
+      "rows": 343,
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2021-22/mx.1.csv"
+    },
+    {
+      "season": "2022-23",
+      "status": "ok",
+      "rows": 343,
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2022-23/mx.1.csv"
+    },
+    {
+      "season": "2023-24",
+      "status": "ok",
+      "rows": 341,
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2023-24/mx.1.csv"
+    },
+    {
+      "season": "2024-25",
+      "status": "ok",
+      "rows": 154,
+      "url": "https://raw.githubusercontent.com/footballcsv/mexico/master/2024-25/mx.1.csv"
+    }
+  ],
+  "thesportsdb": [
+    {
+      "endpoint": "past_events",
+      "status": "ok",
+      "items": 1,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventspastleague.php?id=4350"
+    },
+    {
+      "endpoint": "next_events",
+      "status": "ok",
+      "items": 1,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsnextleague.php?id=4350"
+    },
+    {
+      "endpoint": "standings",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/lookuptable.php?l=4350&s=2025-2026"
+    },
+    {
+      "endpoint": "round_1",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=1&s=2026-2027"
+    },
+    {
+      "endpoint": "round_2",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=2&s=2026-2027"
+    },
+    {
+      "endpoint": "round_3",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=3&s=2026-2027"
+    },
+    {
+      "endpoint": "round_4",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=4&s=2026-2027"
+    },
+    {
+      "endpoint": "round_5",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=5&s=2026-2027"
+    },
+    {
+      "endpoint": "round_6",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=6&s=2026-2027"
+    },
+    {
+      "endpoint": "round_7",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=7&s=2026-2027"
+    },
+    {
+      "endpoint": "round_8",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=8&s=2026-2027"
+    },
+    {
+      "endpoint": "round_9",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=9&s=2026-2027"
+    },
+    {
+      "endpoint": "round_10",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=10&s=2026-2027"
+    },
+    {
+      "endpoint": "round_11",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=11&s=2026-2027"
+    },
+    {
+      "endpoint": "round_12",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=12&s=2026-2027"
+    },
+    {
+      "endpoint": "round_13",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=13&s=2026-2027"
+    },
+    {
+      "endpoint": "round_14",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=14&s=2026-2027"
+    },
+    {
+      "endpoint": "round_15",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=15&s=2026-2027"
+    },
+    {
+      "endpoint": "round_16",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=16&s=2026-2027"
+    },
+    {
+      "endpoint": "round_17",
+      "status": "ok",
+      "items": 5,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=17&s=2026-2027"
+    },
+    {
+      "endpoint": "round_18",
+      "status": "ok",
+      "items": 0,
+      "url": "https://www.thesportsdb.com/api/v1/json/3/eventsround.php?id=4350&r=18&s=2026-2027"
+    }
+  ]
+}
