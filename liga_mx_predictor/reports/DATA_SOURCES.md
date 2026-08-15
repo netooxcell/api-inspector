@@ -41,6 +41,19 @@ copió ningún dato a mano: todo se obtiene vía `scripts/download_data.py`.
 
 ---
 
+## Fuente 3: partidos confirmados manualmente por el usuario
+
+| Campo | Detalle |
+|---|---|
+| **Nombre** | Fixtures de Jornada 4 (Apertura 2026-27) confirmados directamente por el usuario |
+| **Motivo** | TheSportsDB (tier gratuito) solo catalogó 5 de los 9 partidos reales de la jornada 4 (ver limitación en Fuente 2). El usuario pidió predicción de los 9 partidos reales, incluyendo los 4 faltantes: Santos Laguna vs Guadalajara, Tijuana vs Cruz Azul, Necaxa vs León, Pachuca vs Puebla. |
+| **Qué se agregó** | Únicamente equipo local, equipo visitante, jornada y una fecha aproximada (2026-08-16, igual al resto de la jornada — no se confirmó el horario exacto por ninguna fuente automática). **No se agregó ningún resultado**: son fixtures, no marcadores. |
+| **Archivo** | `data/raw/manual/jornada4_fixtures.csv`, documentado en `data/raw/manual/README.md` |
+| **Fecha de incorporación** | 2026-08-15 |
+| **Tratamiento en el pipeline** | Se cargan igual que cualquier otra fuente (`scripts/clean_data.py::load_manual_fixtures`), con `source="manual_user_confirmed"` para que quede trazable en `normalized_events.csv` y en el reporte de calidad. |
+
+---
+
 ## Fuentes evaluadas y descartadas
 
 | Fuente | Motivo de exclusión |

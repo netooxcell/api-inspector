@@ -27,6 +27,7 @@ import pandas as pd
 ROOT = Path(__file__).resolve().parent.parent
 RAW_FOOTBALLCSV = ROOT / "data" / "raw" / "footballcsv"
 RAW_SPORTSDB = ROOT / "data" / "raw" / "thesportsdb"
+RAW_MANUAL = ROOT / "data" / "raw" / "manual"
 PROCESSED = ROOT / "data" / "processed"
 TEAM_MAPPING_PATH = ROOT / "data" / "external" / "team_mapping.csv"
 
@@ -121,6 +122,39 @@ def load_sportsdb_events(filename, lookup):
     return out
 
 
+def load_manual_fixtures(lookup):
+    """
+    Partidos confirmados manualmente por el usuario cuando no aparecen en
+    ninguna fuente automática (ver data/raw/manual/README.md) — típicamente
+    porque TheSportsDB (tier gratuito) solo cataloga 5 de los 9 partidos
+    reales de cada jornada de Liga MX.
+    """
+    frames = []
+    for path in sorted(RAW_MANUAL.glob("*.csv")):
+        frames.append(pd.read_csv(path))
+    if not frames:
+        return pd.DataFrame()
+    raw = pd.concat(frames, ignore_index=True)
+
+    out = pd.DataFrame({
+        "date": pd.to_datetime(raw["date"], errors="coerce"),
+        "season": raw["season"].astype(str),
+        "stage": None,
+        "round": raw["round"],
+        "is_playoff": False,
+        "home_team_raw": raw["home_team"],
+        "away_team_raw": raw["away_team"],
+        "home_goals": None,
+        "away_goals": None,
+        "home_ht_goals": None,
+        "away_ht_goals": None,
+        "source": "manual_user_confirmed",
+    })
+    out["home_team"] = out["home_team_raw"].map(lambda n: normalize_team(n, lookup))
+    out["away_team"] = out["away_team_raw"].map(lambda n: normalize_team(n, lookup))
+    return out
+
+
 def main():
     PROCESSED.mkdir(parents=True, exist_ok=True)
     lookup = load_team_mapping()
@@ -129,8 +163,9 @@ def main():
     sdb_past = load_sportsdb_events("past_events.json", lookup)
     sdb_next = load_sportsdb_events("next_events.json", lookup)
     sdb_rounds = load_sportsdb_events("current_season_rounds.json", lookup)
+    manual = load_manual_fixtures(lookup)
 
-    all_events = pd.concat([fcsv, sdb_past, sdb_next, sdb_rounds], ignore_index=True, sort=False)
+    all_events = pd.concat([fcsv, sdb_past, sdb_next, sdb_rounds, manual], ignore_index=True, sort=False)
     # sdb_past/sdb_next are subsets of sdb_rounds's round range for the same
     # season (both draw from the same live current-season fixture list) —
     # drop exact duplicates on the natural key before anything else.
