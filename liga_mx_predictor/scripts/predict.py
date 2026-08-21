@@ -30,6 +30,7 @@ import pandas as pd
 import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from models.poisson import predict_match  # noqa: E402
+from models import ensemble  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 PROCESSED = ROOT / "data" / "processed"
@@ -111,10 +112,14 @@ def ensemble_probability(row, feature_cols, models, poisson_fitted, weights):
 
 def apply_calibration(proba, calibrators, use_calibrated):
     if not use_calibrated or calibrators is None:
-        return proba
+        return ensemble.clip_and_renormalize(proba)
     calibrated = np.array([calibrators[c].predict([proba[i]])[0] for i, c in enumerate(CLASS_ORDER)])
     s = calibrated.sum()
-    return calibrated / s if s > 0 else proba
+    calibrated = calibrated / s if s > 0 else proba
+    # Floor/ceiling: isotonic calibration can collapse to exactly 0 in
+    # sparsely-populated probability bins (see MODEL_ERROR_ANALYSIS.md) —
+    # football never has a truly impossible outcome.
+    return ensemble.clip_and_renormalize(calibrated)
 
 
 def monte_carlo_simulation(score_matrix, n_sims=N_SIMULATIONS, max_goals=8, seed=None):

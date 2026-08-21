@@ -6,13 +6,10 @@ los partidos de la Jornada 4 del Apertura 2026-27 que el usuario confirmó
 directamente a partir del calendario oficial, y que no aparecían en ninguna
 fuente automática disponible.
 
-No son datos inventados por el modelo: son fixtures (equipo local, equipo
-visitante, fecha aproximada) proporcionados por el usuario. La fecha exacta
-de kickoff no está confirmada por una fuente automática — se usó la misma
-fecha que el resto de la jornada (2026-08-16) como aproximación; esto solo
-afecta marginalmente a la feature "días de descanso desde el último
-partido".
+No son datos inventados por el modelo: son fixtures y, una vez jugados,
+resultados (equipo local, equipo visitante, marcador) proporcionados
+directamente por el usuario.
 
-| Archivo | Contenido | Fecha de incorporación |
+| Archivo | Contenido | Estado |
 |---|---|---|
-| `jornada4_fixtures.csv` | Santos Laguna vs Guadalajara, Tijuana vs Cruz Azul, Necaxa vs León, Pachuca vs Puebla | 2026-08-15 |
+| `jornada4_fixtures.csv` | Santos Laguna vs Guadalajara, Tijuana vs Cruz Azul, Necaxa vs León, Pachuca vs Puebla | **Jugados** — resultados reales confirmados por el usuario el 2026-08-21: Santos 0-1 Chivas, Tijuana 2-1 Cruz Azul, Necaxa 1-2 León, Pachuca 2-3 Puebla. Se agregaron al histórico de entrenamiento con `source="manual_user_confirmed"`. |

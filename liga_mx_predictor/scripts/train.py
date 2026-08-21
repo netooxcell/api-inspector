@@ -105,7 +105,16 @@ def apply_calibrators(calibrators, proba, labels=CLASS_ORDER):
     calibrated = np.column_stack([calibrators[lbl].predict(proba[:, i]) for i, lbl in enumerate(labels)])
     row_sums = calibrated.sum(axis=1, keepdims=True)
     row_sums[row_sums == 0] = 1.0
-    return calibrated / row_sums
+    calibrated = calibrated / row_sums
+    # Isotonic regression can collapse to exactly 0 in sparsely-populated
+    # probability bins (see reports/MODEL_ERROR_ANALYSIS.md — e.g. only 6
+    # backtest matches had raw P(H) in [0.10, 0.20], none of them a home
+    # win, so the calibrator learned P(H)=0 for that whole range). Football
+    # never has a truly impossible outcome, so a floor/ceiling is applied
+    # here too, matching production (models/ensemble.py::clip_and_renormalize)
+    # — otherwise the reported metrics wouldn't reflect what predict.py
+    # actually serves.
+    return ensemble.clip_and_renormalize(calibrated)
 
 
 def main():

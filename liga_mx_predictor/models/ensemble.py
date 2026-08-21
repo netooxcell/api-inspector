@@ -16,6 +16,22 @@ from sklearn.metrics import log_loss
 
 CLASS_ORDER = ["A", "D", "H"]
 
+# Piso/techo de probabilidad aplicado tras cualquier calibración. El fútbol
+# nunca tiene probabilidad 0% o 100% real; además, la calibración isotónica
+# puede colapsar a exactamente 0 en bins con pocas observaciones históricas
+# (ver reports/MODEL_ERROR_ANALYSIS.md) — sin este piso, un partido con pocos
+# precedentes en ese rango de probabilidad se reportaría como imposible, lo
+# cual contradice el lenguaje probabilístico exigido en todo el sistema.
+MIN_PROB = 0.02
+
+
+def clip_and_renormalize(proba, min_prob=MIN_PROB):
+    """proba: array (n, k) o (k,). Aplica un piso/techo y renormaliza por fila."""
+    proba = np.clip(proba, min_prob, 1 - min_prob)
+    if proba.ndim == 1:
+        return proba / proba.sum()
+    return proba / proba.sum(axis=1, keepdims=True)
+
 
 def _model_proba_matrix(df, model_name):
     return df[[f"{model_name}_{c}" for c in CLASS_ORDER]].to_numpy()

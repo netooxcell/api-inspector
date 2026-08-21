@@ -1,5 +1,5 @@
-date,home_team,away_team,round,season
-2026-08-16,Santos Laguna,Guadalajara,4,2026-2027
-2026-08-16,Tijuana,Cruz Azul,4,2026-2027
-2026-08-16,Necaxa,León,4,2026-2027
-2026-08-16,Pachuca,Puebla,4,2026-2027
+date,home_team,away_team,round,season,home_goals,away_goals
+2026-08-16,Santos Laguna,Guadalajara,4,2026-2027,0,1
+2026-08-16,Tijuana,Cruz Azul,4,2026-2027,2,1
+2026-08-16,Necaxa,León,4,2026-2027,1,2
+2026-08-16,Pachuca,Puebla,4,2026-2027,2,3

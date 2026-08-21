@@ -21,6 +21,10 @@ import joblib
 import numpy as np
 import pandas as pd
 
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from models import ensemble  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 PROCESSED = ROOT / "data" / "processed"
 ARTIFACTS = PROCESSED / "model_artifacts"
@@ -49,7 +53,7 @@ def get_ensemble_probs(backtest):
         row_sums[row_sums == 0] = 1.0
         combined = calibrated / row_sums
 
-    return combined
+    return ensemble.clip_and_renormalize(combined)
 
 
 def main():

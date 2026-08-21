@@ -134,7 +134,11 @@ def load_manual_fixtures(lookup):
         frames.append(pd.read_csv(path))
     if not frames:
         return pd.DataFrame()
-    raw = pd.concat(frames, ignore_index=True)
+    raw = pd.concat(frames, ignore_index=True, sort=False)
+    if "home_goals" not in raw.columns:
+        raw["home_goals"] = None
+    if "away_goals" not in raw.columns:
+        raw["away_goals"] = None
 
     out = pd.DataFrame({
         "date": pd.to_datetime(raw["date"], errors="coerce"),
@@ -144,8 +148,12 @@ def load_manual_fixtures(lookup):
         "is_playoff": False,
         "home_team_raw": raw["home_team"],
         "away_team_raw": raw["away_team"],
-        "home_goals": None,
-        "away_goals": None,
+        # Score, when present, was confirmed by the user directly (real
+        # result), not sourced from any automated feed — see README.md in
+        # this folder. Left as NaN (i.e. still an upcoming fixture) until
+        # confirmed.
+        "home_goals": raw["home_goals"],
+        "away_goals": raw["away_goals"],
         "home_ht_goals": None,
         "away_ht_goals": None,
         "source": "manual_user_confirmed",
