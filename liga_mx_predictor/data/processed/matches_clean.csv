@@ -794,8 +794,8 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2021-01-16,2020-21,Clausura,2,False,Monterrey,América,1.0,0.0,1.0,0.0,footballcsv
 2021-01-16,2020-21,Clausura,2,False,Guadalajara,Toluca,1.0,1.0,1.0,1.0,footballcsv
 2021-01-17,2020-21,Clausura,2,False,Pumas UNAM,Mazatlán FC,3.0,0.0,1.0,0.0,footballcsv
-2021-01-17,2020-21,Clausura,2,False,Querétaro,Atlas,1.0,0.0,0.0,0.0,footballcsv
 2021-01-17,2020-21,Clausura,2,False,Santos Laguna,Tigres UANL,2.0,0.0,0.0,0.0,footballcsv
+2021-01-17,2020-21,Clausura,2,False,Querétaro,Atlas,1.0,0.0,0.0,0.0,footballcsv
 2021-01-18,2020-21,Clausura,2,False,León,Pachuca,0.0,0.0,0.0,0.0,footballcsv
 2021-01-21,2020-21,Clausura,3,False,Atlético San Luis,Guadalajara,3.0,1.0,2.0,0.0,footballcsv
 2021-01-22,2020-21,Clausura,3,False,Mazatlán FC,Santos Laguna,0.0,0.0,0.0,0.0,footballcsv
@@ -933,8 +933,8 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2021-05-02,2020-21,Clausura,17,False,Santos Laguna,Puebla,0.0,0.0,0.0,0.0,footballcsv
 2021-05-08,2020-21,Clausura - Liguilla,Reclassification,True,Santos Laguna,Querétaro,5.0,0.0,2.0,0.0,footballcsv
 2021-05-08,2020-21,Clausura - Liguilla,Reclassification,True,Atlas,Tigres UANL,1.0,0.0,0.0,0.0,footballcsv
-2021-05-09,2020-21,Clausura - Liguilla,Reclassification,True,León,Toluca,2.0,2.0,1.0,1.0,footballcsv
 2021-05-09,2020-21,Clausura - Liguilla,Reclassification,True,Pachuca,Guadalajara,4.0,2.0,0.0,1.0,footballcsv
+2021-05-09,2020-21,Clausura - Liguilla,Reclassification,True,León,Toluca,2.0,2.0,1.0,1.0,footballcsv
 2021-05-12,2020-21,Clausura - Liguilla,Quarterfinals,True,Toluca,Cruz Azul,2.0,1.0,1.0,1.0,footballcsv
 2021-05-12,2020-21,Clausura - Liguilla,Quarterfinals,True,Atlas,Puebla,1.0,0.0,0.0,0.0,footballcsv
 2021-05-13,2020-21,Clausura - Liguilla,Quarterfinals,True,Santos Laguna,Monterrey,2.0,1.0,0.0,1.0,footballcsv
@@ -952,11 +952,11 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2021-07-22,2021-22,Apertura,1,False,Querétaro,América,0.0,0.0,0.0,0.0,footballcsv
 2021-07-23,2021-22,Apertura,1,False,FC Juárez,Toluca,1.0,3.0,1.0,1.0,footballcsv
 2021-07-23,2021-22,Apertura,1,False,Necaxa,Santos Laguna,0.0,3.0,0.0,2.0,footballcsv
-2021-07-24,2021-22,Apertura,1,False,Guadalajara,Atlético San Luis,1.0,2.0,0.0,1.0,footballcsv
 2021-07-24,2021-22,Apertura,1,False,Pachuca,León,4.0,0.0,0.0,0.0,footballcsv
+2021-07-24,2021-22,Apertura,1,False,Guadalajara,Atlético San Luis,1.0,2.0,0.0,1.0,footballcsv
+2021-07-25,2021-22,Apertura,1,False,Pumas UNAM,Atlas,0.0,0.0,0.0,0.0,footballcsv
 2021-07-25,2021-22,Apertura,1,False,Monterrey,Puebla,1.0,1.0,0.0,0.0,footballcsv
 2021-07-25,2021-22,Apertura,1,False,Tijuana,Tigres UANL,1.0,2.0,0.0,1.0,footballcsv
-2021-07-25,2021-22,Apertura,1,False,Pumas UNAM,Atlas,0.0,0.0,0.0,0.0,footballcsv
 2021-07-26,2021-22,Apertura,1,False,Cruz Azul,Mazatlán FC,0.0,2.0,0.0,1.0,footballcsv
 2021-07-30,2021-22,Apertura,2,False,Mazatlán FC,Pachuca,2.0,1.0,1.0,1.0,footballcsv
 2021-07-30,2021-22,Apertura,2,False,Puebla,Guadalajara,0.0,2.0,0.0,0.0,footballcsv
@@ -968,46 +968,46 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2021-08-01,2021-22,Apertura,2,False,Toluca,Tigres UANL,3.0,1.0,1.0,1.0,footballcsv
 2021-08-02,2021-22,Apertura,2,False,Atlético San Luis,Querétaro,1.0,1.0,1.0,0.0,footballcsv
 2021-08-05,2021-22,Apertura,3,False,Querétaro,León,0.0,1.0,0.0,1.0,footballcsv
-2021-08-06,2021-22,Apertura,3,False,Necaxa,Cruz Azul,1.0,2.0,1.0,1.0,footballcsv
 2021-08-06,2021-22,Apertura,3,False,Tijuana,Toluca,0.0,2.0,0.0,1.0,footballcsv
 2021-08-06,2021-22,Apertura,3,False,Mazatlán FC,Monterrey,1.0,1.0,1.0,1.0,footballcsv
+2021-08-06,2021-22,Apertura,3,False,Necaxa,Cruz Azul,1.0,2.0,1.0,1.0,footballcsv
+2021-08-07,2021-22,Apertura,3,False,América,Puebla,2.0,0.0,1.0,0.0,footballcsv
 2021-08-07,2021-22,Apertura,3,False,Tigres UANL,Santos Laguna,1.0,1.0,0.0,1.0,footballcsv
 2021-08-07,2021-22,Apertura,3,False,Guadalajara,FC Juárez,2.0,2.0,1.0,1.0,footballcsv
-2021-08-07,2021-22,Apertura,3,False,América,Puebla,2.0,0.0,1.0,0.0,footballcsv
 2021-08-08,2021-22,Apertura,3,False,Pumas UNAM,Atlético San Luis,1.0,3.0,1.0,2.0,footballcsv
 2021-08-09,2021-22,Apertura,3,False,Pachuca,Atlas,0.0,1.0,0.0,1.0,footballcsv
 2021-08-12,2021-22,Apertura,4,False,Atlético San Luis,Necaxa,0.0,2.0,0.0,1.0,footballcsv
-2021-08-13,2021-22,Apertura,4,False,Puebla,Tigres UANL,1.0,1.0,1.0,0.0,footballcsv
 2021-08-13,2021-22,Apertura,4,False,FC Juárez,Tijuana,1.0,1.0,1.0,1.0,footballcsv
+2021-08-13,2021-22,Apertura,4,False,Puebla,Tigres UANL,1.0,1.0,1.0,0.0,footballcsv
+2021-08-14,2021-22,Apertura,4,False,Cruz Azul,Toluca,4.0,0.0,3.0,0.0,footballcsv
 2021-08-14,2021-22,Apertura,4,False,Pumas UNAM,Querétaro,0.0,0.0,0.0,0.0,footballcsv
 2021-08-14,2021-22,Apertura,4,False,León,Mazatlán FC,3.0,0.0,1.0,0.0,footballcsv
-2021-08-14,2021-22,Apertura,4,False,Cruz Azul,Toluca,4.0,0.0,3.0,0.0,footballcsv
 2021-08-14,2021-22,Apertura,4,False,Monterrey,Pachuca,3.0,1.0,1.0,0.0,footballcsv
 2021-08-15,2021-22,Apertura,4,False,Santos Laguna,Guadalajara,0.0,0.0,0.0,0.0,footballcsv
 2021-08-15,2021-22,Apertura,4,False,Atlas,América,0.0,1.0,0.0,0.0,footballcsv
-2021-08-17,2021-22,Apertura,5,False,Tigres UANL,Querétaro,3.0,0.0,1.0,0.0,footballcsv
 2021-08-17,2021-22,Apertura,5,False,Necaxa,Pumas UNAM,3.0,0.0,1.0,0.0,footballcsv
+2021-08-17,2021-22,Apertura,5,False,Tigres UANL,Querétaro,3.0,0.0,1.0,0.0,footballcsv
 2021-08-17,2021-22,Apertura,5,False,Toluca,Mazatlán FC,2.0,2.0,2.0,2.0,footballcsv
 2021-08-17,2021-22,Apertura,5,False,Tijuana,Puebla,1.0,1.0,1.0,0.0,footballcsv
+2021-08-18,2021-22,Apertura,5,False,FC Juárez,América,1.0,2.0,1.0,1.0,footballcsv
+2021-08-18,2021-22,Apertura,5,False,Guadalajara,León,0.0,3.0,0.0,1.0,footballcsv
 2021-08-18,2021-22,Apertura,5,False,Cruz Azul,Monterrey,1.0,1.0,0.0,0.0,footballcsv
 2021-08-18,2021-22,Apertura,5,False,Santos Laguna,Atlas,1.0,1.0,0.0,1.0,footballcsv
-2021-08-18,2021-22,Apertura,5,False,Guadalajara,León,0.0,3.0,0.0,1.0,footballcsv
-2021-08-18,2021-22,Apertura,5,False,FC Juárez,América,1.0,2.0,1.0,1.0,footballcsv
 2021-08-20,2021-22,Apertura,6,False,Mazatlán FC,Tigres UANL,0.0,3.0,0.0,0.0,footballcsv
 2021-08-21,2021-22,Apertura,6,False,Atlas,Toluca,0.0,0.0,0.0,0.0,footballcsv
 2021-08-21,2021-22,Apertura,6,False,León,Santos Laguna,1.0,1.0,0.0,1.0,footballcsv
 2021-08-21,2021-22,Apertura,6,False,Atlético San Luis,Cruz Azul,0.0,0.0,0.0,0.0,footballcsv
 2021-08-21,2021-22,Apertura,6,False,Monterrey,Guadalajara,0.0,0.0,0.0,0.0,footballcsv
+2021-08-22,2021-22,Apertura,6,False,América,Tijuana,2.0,0.0,0.0,0.0,footballcsv
 2021-08-22,2021-22,Apertura,6,False,Querétaro,Pachuca,0.0,2.0,0.0,1.0,footballcsv
 2021-08-22,2021-22,Apertura,6,False,Necaxa,FC Juárez,1.0,0.0,0.0,0.0,footballcsv
 2021-08-22,2021-22,Apertura,6,False,Pumas UNAM,Puebla,2.0,0.0,0.0,0.0,footballcsv
-2021-08-22,2021-22,Apertura,6,False,América,Tijuana,2.0,0.0,0.0,0.0,footballcsv
 2021-08-27,2021-22,Apertura,7,False,Mazatlán FC,Atlético San Luis,2.0,2.0,1.0,1.0,footballcsv
 2021-08-27,2021-22,Apertura,7,False,Tijuana,Monterrey,2.0,2.0,1.0,2.0,footballcsv
 2021-08-27,2021-22,Apertura,7,False,Puebla,Querétaro,1.0,0.0,0.0,0.0,footballcsv
 2021-08-28,2021-22,Apertura,7,False,Tigres UANL,Atlas,1.0,1.0,1.0,0.0,footballcsv
-2021-08-28,2021-22,Apertura,7,False,Guadalajara,Necaxa,2.0,1.0,1.0,0.0,footballcsv
 2021-08-28,2021-22,Apertura,7,False,León,América,1.0,1.0,1.0,1.0,footballcsv
+2021-08-28,2021-22,Apertura,7,False,Guadalajara,Necaxa,2.0,1.0,1.0,0.0,footballcsv
 2021-08-29,2021-22,Apertura,7,False,Cruz Azul,Pachuca,1.0,1.0,0.0,1.0,footballcsv
 2021-08-29,2021-22,Apertura,7,False,Toluca,Pumas UNAM,2.0,1.0,1.0,1.0,footballcsv
 2021-08-29,2021-22,Apertura,7,False,Santos Laguna,FC Juárez,2.0,0.0,0.0,0.0,footballcsv
@@ -1039,10 +1039,10 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2021-09-25,2021-22,Apertura,10,False,Atlas,León,2.0,0.0,1.0,0.0,footballcsv
 2021-09-26,2021-22,Apertura,10,False,Toluca,Atlético San Luis,1.0,2.0,1.0,2.0,footballcsv
 2021-09-26,2021-22,Apertura,10,False,Santos Laguna,Monterrey,1.0,2.0,0.0,0.0,footballcsv
-2021-09-28,2021-22,Apertura,11,False,Mazatlán FC,FC Juárez,3.0,1.0,2.0,0.0,footballcsv
+2021-09-28,2021-22,Apertura,11,False,Atlas,Puebla,0.0,1.0,0.0,1.0,footballcsv
 2021-09-28,2021-22,Apertura,11,False,Necaxa,Tijuana,3.0,0.0,0.0,0.0,footballcsv
 2021-09-28,2021-22,Apertura,11,False,Pachuca,América,1.0,1.0,1.0,1.0,footballcsv
-2021-09-28,2021-22,Apertura,11,False,Atlas,Puebla,0.0,1.0,0.0,1.0,footballcsv
+2021-09-28,2021-22,Apertura,11,False,Mazatlán FC,FC Juárez,3.0,1.0,2.0,0.0,footballcsv
 2021-09-29,2021-22,Apertura,11,False,Querétaro,Guadalajara,1.0,0.0,0.0,0.0,footballcsv
 2021-09-29,2021-22,Apertura,11,False,Atlético San Luis,Tigres UANL,0.0,3.0,0.0,1.0,footballcsv
 2021-10-01,2021-22,Apertura,12,False,Puebla,Pachuca,1.0,2.0,1.0,1.0,footballcsv
@@ -1058,29 +1058,29 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2021-10-14,2021-22,Apertura,13,False,Querétaro,Tijuana,1.0,1.0,0.0,1.0,footballcsv
 2021-10-15,2021-22,Apertura,13,False,Mazatlán FC,Atlas,1.0,0.0,1.0,0.0,footballcsv
 2021-10-15,2021-22,Apertura,13,False,Necaxa,Puebla,0.0,1.0,0.0,0.0,footballcsv
-2021-10-16,2021-22,Apertura,13,False,Pachuca,Santos Laguna,1.0,1.0,0.0,0.0,footballcsv
-2021-10-16,2021-22,Apertura,13,False,Monterrey,León,0.0,1.0,0.0,1.0,footballcsv
 2021-10-16,2021-22,Apertura,13,False,Cruz Azul,Tigres UANL,1.0,1.0,1.0,1.0,footballcsv
 2021-10-16,2021-22,Apertura,13,False,Atlético San Luis,América,0.0,1.0,0.0,0.0,footballcsv
+2021-10-16,2021-22,Apertura,13,False,Monterrey,León,0.0,1.0,0.0,1.0,footballcsv
+2021-10-16,2021-22,Apertura,13,False,Pachuca,Santos Laguna,1.0,1.0,0.0,0.0,footballcsv
 2021-10-17,2021-22,Apertura,13,False,Pumas UNAM,FC Juárez,1.0,0.0,0.0,0.0,footballcsv
 2021-10-17,2021-22,Apertura,13,False,Guadalajara,Toluca,2.0,0.0,1.0,0.0,footballcsv
 2021-10-19,2021-22,Apertura,14,False,Atlas,Cruz Azul,0.0,0.0,0.0,0.0,footballcsv
 2021-10-19,2021-22,Apertura,14,False,América,Santos Laguna,2.0,1.0,0.0,0.0,footballcsv
 2021-10-19,2021-22,Apertura,14,False,Querétaro,Monterrey,1.0,0.0,1.0,0.0,footballcsv
 2021-10-19,2021-22,Apertura,14,False,Puebla,Mazatlán FC,2.0,0.0,0.0,0.0,footballcsv
-2021-10-20,2021-22,Apertura,14,False,Tijuana,Guadalajara,0.0,0.0,0.0,0.0,footballcsv
 2021-10-20,2021-22,Apertura,14,False,Tigres UANL,Pachuca,3.0,0.0,2.0,0.0,footballcsv
 2021-10-20,2021-22,Apertura,14,False,León,Pumas UNAM,1.0,2.0,0.0,1.0,footballcsv
+2021-10-20,2021-22,Apertura,14,False,Tijuana,Guadalajara,0.0,0.0,0.0,0.0,footballcsv
 2021-10-20,2021-22,Apertura,14,False,Toluca,Necaxa,1.0,1.0,0.0,0.0,footballcsv
 2021-10-22,2021-22,Apertura,15,False,Mazatlán FC,Querétaro,2.0,1.0,0.0,1.0,footballcsv
-2021-10-23,2021-22,Apertura,15,False,América,Tigres UANL,1.0,0.0,0.0,0.0,footballcsv
 2021-10-23,2021-22,Apertura,15,False,Monterrey,Necaxa,0.0,1.0,0.0,0.0,footballcsv
-2021-10-23,2021-22,Apertura,15,False,Guadalajara,Cruz Azul,1.0,1.0,0.0,1.0,footballcsv
 2021-10-23,2021-22,Apertura,15,False,Puebla,León,0.0,1.0,0.0,0.0,footballcsv
+2021-10-23,2021-22,Apertura,15,False,Guadalajara,Cruz Azul,1.0,1.0,0.0,1.0,footballcsv
+2021-10-23,2021-22,Apertura,15,False,América,Tigres UANL,1.0,0.0,0.0,0.0,footballcsv
 2021-10-24,2021-22,Apertura,15,False,Atlético San Luis,Atlas,2.0,6.0,0.0,4.0,footballcsv
 2021-10-24,2021-22,Apertura,15,False,Pumas UNAM,Tijuana,3.0,1.0,1.0,0.0,footballcsv
-2021-10-24,2021-22,Apertura,15,False,Pachuca,FC Juárez,1.0,1.0,0.0,1.0,footballcsv
 2021-10-24,2021-22,Apertura,15,False,Santos Laguna,Toluca,2.0,2.0,1.0,0.0,footballcsv
+2021-10-24,2021-22,Apertura,15,False,Pachuca,FC Juárez,1.0,1.0,0.0,1.0,footballcsv
 2021-10-28,2021-22,Apertura,16,False,Atlas,Tijuana,0.0,2.0,0.0,1.0,footballcsv
 2021-10-29,2021-22,Apertura,16,False,FC Juárez,Puebla,0.0,2.0,0.0,0.0,footballcsv
 2021-10-29,2021-22,Apertura,16,False,Necaxa,Mazatlán FC,2.0,1.0,1.0,0.0,footballcsv
@@ -1110,10 +1110,10 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2021-11-24,2021-22,Apertura - Liguilla,Quarterfinals,True,Pumas UNAM,América,0.0,0.0,0.0,0.0,footballcsv
 2021-11-25,2021-22,Apertura - Liguilla,Quarterfinals,True,Santos Laguna,Tigres UANL,2.0,1.0,2.0,0.0,footballcsv
 2021-11-25,2021-22,Apertura - Liguilla,Quarterfinals,True,Puebla,León,2.0,1.0,1.0,1.0,footballcsv
-2021-11-27,2021-22,Apertura - Liguilla,Quarterfinals,True,Atlas,Monterrey,1.0,1.0,1.0,0.0,footballcsv
 2021-11-27,2021-22,Apertura - Liguilla,Quarterfinals,True,América,Pumas UNAM,1.0,3.0,1.0,2.0,footballcsv
-2021-11-28,2021-22,Apertura - Liguilla,Quarterfinals,True,Tigres UANL,Santos Laguna,1.0,0.0,0.0,0.0,footballcsv
+2021-11-27,2021-22,Apertura - Liguilla,Quarterfinals,True,Atlas,Monterrey,1.0,1.0,1.0,0.0,footballcsv
 2021-11-28,2021-22,Apertura - Liguilla,Quarterfinals,True,León,Puebla,2.0,0.0,1.0,0.0,footballcsv
+2021-11-28,2021-22,Apertura - Liguilla,Quarterfinals,True,Tigres UANL,Santos Laguna,1.0,0.0,0.0,0.0,footballcsv
 2021-12-01,2021-22,Apertura - Liguilla,Semifinals,True,Tigres UANL,León,2.0,1.0,0.0,0.0,footballcsv
 2021-12-02,2021-22,Apertura - Liguilla,Semifinals,True,Pumas UNAM,Atlas,0.0,1.0,0.0,1.0,footballcsv
 2021-12-04,2021-22,Apertura - Liguilla,Semifinals,True,León,Tigres UANL,2.0,1.0,1.0,1.0,footballcsv
@@ -1128,19 +1128,19 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2022-01-09,2021-22,Clausura,1,False,Guadalajara,Mazatlán FC,3.0,0.0,3.0,0.0,footballcsv
 2022-01-10,2021-22,Clausura,1,False,Pumas UNAM,Toluca,5.0,0.0,1.0,0.0,footballcsv
 2022-01-12,2021-22,Clausura,1,False,Santos Laguna,Tigres UANL,1.0,1.0,0.0,0.0,footballcsv
-2022-01-14,2021-22,Clausura,2,False,Querétaro,Pumas UNAM,1.0,3.0,1.0,2.0,footballcsv
 2022-01-14,2021-22,Clausura,2,False,Necaxa,Monterrey,0.0,4.0,0.0,3.0,footballcsv
+2022-01-14,2021-22,Clausura,2,False,Querétaro,Pumas UNAM,1.0,3.0,1.0,2.0,footballcsv
+2022-01-15,2021-22,Clausura,2,False,Tijuana,León,1.0,1.0,0.0,1.0,footballcsv
+2022-01-15,2021-22,Clausura,2,False,Cruz Azul,FC Juárez,1.0,0.0,1.0,0.0,footballcsv
 2022-01-15,2021-22,Clausura,2,False,Atlas,Atlético San Luis,1.0,0.0,0.0,0.0,footballcsv
 2022-01-15,2021-22,Clausura,2,False,Tigres UANL,Puebla,0.0,2.0,0.0,2.0,footballcsv
-2022-01-15,2021-22,Clausura,2,False,Cruz Azul,FC Juárez,1.0,0.0,1.0,0.0,footballcsv
-2022-01-15,2021-22,Clausura,2,False,Tijuana,León,1.0,1.0,0.0,1.0,footballcsv
 2022-01-16,2021-22,Clausura,2,False,Pachuca,Guadalajara,2.0,1.0,2.0,0.0,footballcsv
 2022-01-16,2021-22,Clausura,2,False,Toluca,Santos Laguna,3.0,1.0,1.0,1.0,footballcsv
 2022-01-19,2021-22,Clausura,1,False,León,Atlas,1.0,1.0,1.0,0.0,footballcsv
 2022-01-20,2021-22,Clausura,3,False,Atlético San Luis,FC Juárez,0.0,1.0,0.0,0.0,footballcsv
 2022-01-21,2021-22,Clausura,3,False,Mazatlán FC,Toluca,1.0,2.0,1.0,0.0,footballcsv
-2022-01-22,2021-22,Clausura,3,False,Guadalajara,Querétaro,1.0,1.0,1.0,1.0,footballcsv
 2022-01-22,2021-22,Clausura,3,False,León,Pachuca,2.0,1.0,1.0,1.0,footballcsv
+2022-01-22,2021-22,Clausura,3,False,Guadalajara,Querétaro,1.0,1.0,1.0,1.0,footballcsv
 2022-01-22,2021-22,Clausura,3,False,América,Atlas,0.0,2.0,0.0,0.0,footballcsv
 2022-01-22,2021-22,Clausura,3,False,Monterrey,Cruz Azul,2.0,2.0,0.0,1.0,footballcsv
 2022-01-23,2021-22,Clausura,3,False,Pumas UNAM,Tigres UANL,1.0,2.0,1.0,0.0,footballcsv
@@ -1149,9 +1149,9 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2022-02-05,2021-22,Clausura,4,False,América,Atlético San Luis,2.0,3.0,0.0,1.0,footballcsv
 2022-02-05,2021-22,Clausura,4,False,Necaxa,Pachuca,1.0,3.0,0.0,2.0,footballcsv
 2022-02-05,2021-22,Clausura,4,False,Tijuana,Pumas UNAM,1.0,0.0,0.0,0.0,footballcsv
-2022-02-06,2021-22,Clausura,4,False,Querétaro,Puebla,0.0,2.0,0.0,2.0,footballcsv
-2022-02-06,2021-22,Clausura,4,False,Atlas,Santos Laguna,2.0,1.0,2.0,0.0,footballcsv
 2022-02-06,2021-22,Clausura,4,False,Tigres UANL,Mazatlán FC,4.0,3.0,2.0,0.0,footballcsv
+2022-02-06,2021-22,Clausura,4,False,Atlas,Santos Laguna,2.0,1.0,2.0,0.0,footballcsv
+2022-02-06,2021-22,Clausura,4,False,Querétaro,Puebla,0.0,2.0,0.0,2.0,footballcsv
 2022-02-07,2021-22,Clausura,4,False,León,Cruz Azul,0.0,1.0,0.0,1.0,footballcsv
 2022-02-09,2021-22,Clausura,4,False,FC Juárez,Guadalajara,1.0,3.0,1.0,1.0,footballcsv
 2022-02-11,2021-22,Clausura,5,False,Puebla,Atlas,1.0,1.0,0.0,0.0,footballcsv
@@ -1163,55 +1163,55 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2022-02-13,2021-22,Clausura,5,False,Pumas UNAM,León,2.0,1.0,2.0,1.0,footballcsv
 2022-02-14,2021-22,Clausura,5,False,Pachuca,Querétaro,2.0,2.0,2.0,1.0,footballcsv
 2022-02-16,2021-22,Clausura,2,False,Mazatlán FC,América,2.0,1.0,2.0,0.0,footballcsv
-2022-02-18,2021-22,Clausura,6,False,FC Juárez,Santos Laguna,0.0,0.0,0.0,0.0,footballcsv
 2022-02-18,2021-22,Clausura,6,False,Puebla,Monterrey,1.0,0.0,1.0,0.0,footballcsv
+2022-02-18,2021-22,Clausura,6,False,FC Juárez,Santos Laguna,0.0,0.0,0.0,0.0,footballcsv
 2022-02-18,2021-22,Clausura,6,False,Tijuana,Necaxa,1.0,1.0,0.0,0.0,footballcsv
+2022-02-19,2021-22,Clausura,6,False,León,Guadalajara,2.0,1.0,1.0,0.0,footballcsv
 2022-02-19,2021-22,Clausura,6,False,Tigres UANL,Atlético San Luis,2.0,1.0,0.0,0.0,footballcsv
 2022-02-19,2021-22,Clausura,6,False,Querétaro,Mazatlán FC,2.0,0.0,0.0,0.0,footballcsv
-2022-02-19,2021-22,Clausura,6,False,León,Guadalajara,2.0,1.0,1.0,0.0,footballcsv
 2022-02-20,2021-22,Clausura,6,False,Atlas,Pumas UNAM,0.0,0.0,0.0,0.0,footballcsv
 2022-02-20,2021-22,Clausura,6,False,América,Pachuca,1.0,3.0,0.0,2.0,footballcsv
 2022-02-20,2021-22,Clausura,6,False,Toluca,Cruz Azul,1.0,4.0,1.0,1.0,footballcsv
 2022-02-24,2021-22,Clausura,7,False,Pachuca,Mazatlán FC,3.0,1.0,2.0,1.0,footballcsv
 2022-02-24,2021-22,Clausura,7,False,Querétaro,Toluca,1.0,1.0,1.0,0.0,footballcsv
+2022-02-25,2021-22,Clausura,7,False,Necaxa,León,0.0,1.0,0.0,1.0,footballcsv
 2022-02-25,2021-22,Clausura,7,False,FC Juárez,Tigres UANL,2.0,3.0,0.0,3.0,footballcsv
 2022-02-25,2021-22,Clausura,7,False,Tijuana,Atlas,2.0,0.0,2.0,0.0,footballcsv
-2022-02-25,2021-22,Clausura,7,False,Necaxa,León,0.0,1.0,0.0,1.0,footballcsv
-2022-02-26,2021-22,Clausura,7,False,Guadalajara,Puebla,2.0,3.0,2.0,0.0,footballcsv
-2022-02-26,2021-22,Clausura,7,False,Pumas UNAM,América,0.0,0.0,0.0,0.0,footballcsv
 2022-02-26,2021-22,Clausura,7,False,Monterrey,Atlético San Luis,0.0,2.0,0.0,1.0,footballcsv
+2022-02-26,2021-22,Clausura,7,False,Pumas UNAM,América,0.0,0.0,0.0,0.0,footballcsv
+2022-02-26,2021-22,Clausura,7,False,Guadalajara,Puebla,2.0,3.0,2.0,0.0,footballcsv
 2022-02-27,2021-22,Clausura,7,False,Cruz Azul,Santos Laguna,1.0,2.0,0.0,1.0,footballcsv
+2022-03-01,2021-22,Clausura,8,False,Mazatlán FC,Necaxa,0.0,0.0,0.0,0.0,footballcsv
+2022-03-01,2021-22,Clausura,8,False,América,Querétaro,1.0,1.0,1.0,0.0,footballcsv
 2022-03-01,2021-22,Clausura,8,False,León,Monterrey,0.0,0.0,0.0,0.0,footballcsv
 2022-03-01,2021-22,Clausura,8,False,Toluca,Tijuana,1.0,2.0,1.0,1.0,footballcsv
 2022-03-01,2021-22,Clausura,8,False,Puebla,FC Juárez,1.0,1.0,0.0,0.0,footballcsv
-2022-03-01,2021-22,Clausura,8,False,América,Querétaro,1.0,1.0,1.0,0.0,footballcsv
-2022-03-01,2021-22,Clausura,8,False,Mazatlán FC,Necaxa,0.0,0.0,0.0,0.0,footballcsv
 2022-03-02,2021-22,Clausura,8,False,Atlético San Luis,Guadalajara,2.0,2.0,2.0,0.0,footballcsv
 2022-03-02,2021-22,Clausura,8,False,Atlas,Pachuca,0.0,1.0,0.0,0.0,footballcsv
 2022-03-02,2021-22,Clausura,8,False,Santos Laguna,Pumas UNAM,3.0,2.0,1.0,1.0,footballcsv
 2022-03-02,2021-22,Clausura,8,False,Tigres UANL,Cruz Azul,2.0,2.0,2.0,1.0,footballcsv
 2022-03-04,2021-22,Clausura,9,False,Necaxa,Toluca,0.0,1.0,0.0,1.0,footballcsv
 2022-03-04,2021-22,Clausura,9,False,FC Juárez,León,0.0,1.0,0.0,0.0,footballcsv
-2022-03-05,2021-22,Clausura,9,False,Monterrey,América,2.0,1.0,1.0,1.0,footballcsv
 2022-03-05,2021-22,Clausura,9,False,Guadalajara,Santos Laguna,1.0,0.0,0.0,0.0,footballcsv
 2022-03-05,2021-22,Clausura,9,False,Cruz Azul,Puebla,1.0,3.0,1.0,2.0,footballcsv
+2022-03-05,2021-22,Clausura,9,False,Monterrey,América,2.0,1.0,1.0,1.0,footballcsv
+2022-03-11,2021-22,Clausura,10,False,Monterrey,Mazatlán FC,2.0,1.0,2.0,0.0,footballcsv
 2022-03-11,2021-22,Clausura,10,False,FC Juárez,Atlas,1.0,2.0,0.0,1.0,footballcsv
 2022-03-11,2021-22,Clausura,10,False,Necaxa,Querétaro,1.0,0.0,1.0,0.0,footballcsv
-2022-03-11,2021-22,Clausura,10,False,Monterrey,Mazatlán FC,2.0,1.0,2.0,0.0,footballcsv
 2022-03-12,2021-22,Clausura,10,False,León,Tigres UANL,0.0,3.0,0.0,2.0,footballcsv
 2022-03-12,2021-22,Clausura,10,False,Cruz Azul,Pumas UNAM,2.0,1.0,1.0,1.0,footballcsv
 2022-03-12,2021-22,Clausura,10,False,Guadalajara,América,0.0,0.0,0.0,0.0,footballcsv
+2022-03-13,2021-22,Clausura,10,False,Toluca,Pachuca,0.0,3.0,0.0,1.0,footballcsv
 2022-03-13,2021-22,Clausura,10,False,Atlético San Luis,Puebla,2.0,1.0,1.0,0.0,footballcsv
 2022-03-13,2021-22,Clausura,10,False,Santos Laguna,Tijuana,4.0,0.0,1.0,0.0,footballcsv
-2022-03-13,2021-22,Clausura,10,False,Toluca,Pachuca,0.0,3.0,0.0,1.0,footballcsv
 2022-03-15,2021-22,Clausura,5,False,Monterrey,FC Juárez,3.0,0.0,0.0,0.0,footballcsv
 2022-03-17,2021-22,Clausura,11,False,Querétaro,Atlético San Luis,2.0,1.0,0.0,0.0,footballcsv
 2022-03-18,2021-22,Clausura,11,False,Puebla,Santos Laguna,2.0,2.0,0.0,0.0,footballcsv
+2022-03-19,2021-22,Clausura,11,False,Pachuca,Cruz Azul,1.0,0.0,1.0,0.0,footballcsv
 2022-03-19,2021-22,Clausura,11,False,Pumas UNAM,Necaxa,1.0,3.0,0.0,2.0,footballcsv
 2022-03-19,2021-22,Clausura,11,False,Tigres UANL,Monterrey,2.0,0.0,0.0,0.0,footballcsv
-2022-03-19,2021-22,Clausura,11,False,Pachuca,Cruz Azul,1.0,0.0,1.0,0.0,footballcsv
-2022-03-20,2021-22,Clausura,11,False,Atlas,Guadalajara,1.0,1.0,0.0,0.0,footballcsv
 2022-03-20,2021-22,Clausura,11,False,América,Toluca,3.0,0.0,3.0,0.0,footballcsv
+2022-03-20,2021-22,Clausura,11,False,Atlas,Guadalajara,1.0,1.0,0.0,0.0,footballcsv
 2022-03-20,2021-22,Clausura,11,False,Mazatlán FC,León,1.0,2.0,0.0,2.0,footballcsv
 2022-03-20,2021-22,Clausura,11,False,Tijuana,FC Juárez,1.0,0.0,0.0,0.0,footballcsv
 2022-03-26,2021-22,Clausura,9,False,Pumas UNAM,Mazatlán FC,1.0,1.0,0.0,0.0,footballcsv
@@ -1221,8 +1221,8 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2022-04-02,2021-22,Clausura,12,False,FC Juárez,Pumas UNAM,0.0,1.0,0.0,0.0,footballcsv
 2022-04-03,2021-22,Clausura,12,False,Tigres UANL,Tijuana,2.0,0.0,0.0,0.0,footballcsv
 2022-04-03,2021-22,Clausura,12,False,León,Querétaro,1.0,1.0,0.0,1.0,footballcsv
-2022-04-03,2021-22,Clausura,12,False,Toluca,Puebla,2.0,1.0,2.0,1.0,footballcsv
 2022-04-03,2021-22,Clausura,12,False,Santos Laguna,Pachuca,3.0,1.0,1.0,0.0,footballcsv
+2022-04-03,2021-22,Clausura,12,False,Toluca,Puebla,2.0,1.0,2.0,1.0,footballcsv
 2022-04-06,2021-22,Clausura,9,False,Tijuana,Atlético San Luis,1.0,1.0,0.0,0.0,footballcsv
 2022-04-06,2021-22,Clausura,4,False,Toluca,Monterrey,2.0,2.0,1.0,2.0,footballcsv
 2022-04-07,2021-22,Clausura,13,False,Atlas,Necaxa,2.0,1.0,1.0,0.0,footballcsv
@@ -1245,41 +1245,41 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2022-04-16,2021-22,Clausura,14,False,Cruz Azul,Guadalajara,0.0,1.0,0.0,0.0,footballcsv
 2022-04-16,2021-22,Clausura,14,False,León,Puebla,0.0,1.0,0.0,1.0,footballcsv
 2022-04-17,2021-22,Clausura,14,False,Pumas UNAM,Monterrey,2.0,0.0,0.0,0.0,footballcsv
-2022-04-19,2021-22,Clausura,15,False,Toluca,FC Juárez,0.0,1.0,0.0,0.0,footballcsv
-2022-04-19,2021-22,Clausura,15,False,Guadalajara,Tijuana,2.0,1.0,1.0,1.0,footballcsv
-2022-04-19,2021-22,Clausura,15,False,Mazatlán FC,Santos Laguna,1.0,0.0,1.0,0.0,footballcsv
 2022-04-19,2021-22,Clausura,15,False,Pachuca,Puebla,1.0,0.0,1.0,0.0,footballcsv
 2022-04-19,2021-22,Clausura,15,False,Necaxa,Tigres UANL,2.0,0.0,2.0,0.0,footballcsv
-2022-04-20,2021-22,Clausura,15,False,Atlético San Luis,Pumas UNAM,2.0,0.0,1.0,0.0,footballcsv
+2022-04-19,2021-22,Clausura,15,False,Guadalajara,Tijuana,2.0,1.0,1.0,1.0,footballcsv
+2022-04-19,2021-22,Clausura,15,False,Toluca,FC Juárez,0.0,1.0,0.0,0.0,footballcsv
+2022-04-19,2021-22,Clausura,15,False,Mazatlán FC,Santos Laguna,1.0,0.0,1.0,0.0,footballcsv
 2022-04-20,2021-22,Clausura,15,False,América,León,2.0,0.0,1.0,0.0,footballcsv
 2022-04-20,2021-22,Clausura,15,False,Monterrey,Atlas,0.0,0.0,0.0,0.0,footballcsv
+2022-04-20,2021-22,Clausura,15,False,Atlético San Luis,Pumas UNAM,2.0,0.0,1.0,0.0,footballcsv
 2022-04-21,2021-22,Clausura,15,False,Querétaro,Cruz Azul,0.0,1.0,0.0,0.0,footballcsv
 2022-04-22,2021-22,Clausura,16,False,Puebla,Necaxa,0.0,1.0,0.0,0.0,footballcsv
 2022-04-22,2021-22,Clausura,16,False,FC Juárez,Mazatlán FC,0.0,2.0,0.0,1.0,footballcsv
 2022-04-23,2021-22,Clausura,16,False,Tigres UANL,América,0.0,2.0,0.0,1.0,footballcsv
 2022-04-23,2021-22,Clausura,16,False,Guadalajara,Pumas UNAM,3.0,1.0,2.0,0.0,footballcsv
 2022-04-23,2021-22,Clausura,16,False,Pachuca,Monterrey,3.0,0.0,1.0,0.0,footballcsv
-2022-04-24,2021-22,Clausura,16,False,Santos Laguna,León,1.0,1.0,0.0,0.0,footballcsv
-2022-04-24,2021-22,Clausura,16,False,Tijuana,Querétaro,2.0,2.0,2.0,0.0,footballcsv
 2022-04-24,2021-22,Clausura,16,False,Toluca,Atlas,2.0,4.0,1.0,2.0,footballcsv
 2022-04-24,2021-22,Clausura,16,False,Cruz Azul,Atlético San Luis,0.0,1.0,0.0,1.0,footballcsv
+2022-04-24,2021-22,Clausura,16,False,Santos Laguna,León,1.0,1.0,0.0,0.0,footballcsv
+2022-04-24,2021-22,Clausura,16,False,Tijuana,Querétaro,2.0,2.0,2.0,0.0,footballcsv
 2022-04-29,2021-22,Clausura,17,False,Necaxa,Guadalajara,0.0,1.0,0.0,0.0,footballcsv
 2022-04-29,2021-22,Clausura,17,False,Mazatlán FC,Puebla,2.0,1.0,0.0,0.0,footballcsv
-2022-04-30,2021-22,Clausura,17,False,Querétaro,FC Juárez,4.0,0.0,2.0,0.0,footballcsv
-2022-04-30,2021-22,Clausura,17,False,América,Cruz Azul,0.0,0.0,0.0,0.0,footballcsv
 2022-04-30,2021-22,Clausura,17,False,Atlas,Tigres UANL,1.0,1.0,0.0,0.0,footballcsv
 2022-04-30,2021-22,Clausura,17,False,Monterrey,Tijuana,2.0,0.0,1.0,0.0,footballcsv
-2022-05-01,2021-22,Clausura,17,False,León,Toluca,4.0,4.0,3.0,3.0,footballcsv
+2022-04-30,2021-22,Clausura,17,False,América,Cruz Azul,0.0,0.0,0.0,0.0,footballcsv
+2022-04-30,2021-22,Clausura,17,False,Querétaro,FC Juárez,4.0,0.0,2.0,0.0,footballcsv
 2022-05-01,2021-22,Clausura,17,False,Pumas UNAM,Pachuca,2.0,0.0,0.0,0.0,footballcsv
 2022-05-01,2021-22,Clausura,17,False,Atlético San Luis,Santos Laguna,1.0,3.0,0.0,0.0,footballcsv
+2022-05-01,2021-22,Clausura,17,False,León,Toluca,4.0,4.0,3.0,3.0,footballcsv
 2022-05-07,2021-22,Clausura - Liguilla,Reclassification,True,Monterrey,Atlético San Luis,2.0,2.0,1.0,0.0,footballcsv
 2022-05-07,2021-22,Clausura - Liguilla,Reclassification,True,Cruz Azul,Necaxa,1.0,1.0,0.0,0.0,footballcsv
 2022-05-08,2021-22,Clausura - Liguilla,Reclassification,True,Guadalajara,Pumas UNAM,4.0,1.0,1.0,1.0,footballcsv
 2022-05-08,2021-22,Clausura - Liguilla,Reclassification,True,Puebla,Mazatlán FC,2.0,2.0,2.0,1.0,footballcsv
 2022-05-10,2021-22,Clausura - Liguilla,Quarterfinals,True,Puebla,América,1.0,1.0,0.0,0.0,footballcsv
 2022-05-11,2021-22,Clausura - Liguilla,Quarterfinals,True,Atlético San Luis,Pachuca,2.0,2.0,1.0,1.0,footballcsv
-2022-05-12,2021-22,Clausura - Liguilla,Quarterfinals,True,Cruz Azul,Tigres UANL,0.0,1.0,0.0,1.0,footballcsv
 2022-05-12,2021-22,Clausura - Liguilla,Quarterfinals,True,Guadalajara,Atlas,1.0,2.0,0.0,2.0,footballcsv
+2022-05-12,2021-22,Clausura - Liguilla,Quarterfinals,True,Cruz Azul,Tigres UANL,0.0,1.0,0.0,1.0,footballcsv
 2022-05-14,2021-22,Clausura - Liguilla,Quarterfinals,True,América,Puebla,3.0,2.0,1.0,1.0,footballcsv
 2022-05-14,2021-22,Clausura - Liguilla,Quarterfinals,True,Pachuca,Atlético San Luis,3.0,2.0,0.0,0.0,footballcsv
 2022-05-15,2021-22,Clausura - Liguilla,Quarterfinals,True,Atlas,Guadalajara,1.0,1.0,1.0,0.0,footballcsv
@@ -1295,9 +1295,9 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2022-07-02,2022-23,Apertura,1,False,Guadalajara,FC Juárez,0.0,0.0,0.0,0.0,footballcsv
 2022-07-02,2022-23,Apertura,1,False,Tigres UANL,Cruz Azul,2.0,3.0,0.0,1.0,footballcsv
 2022-07-02,2022-23,Apertura,1,False,América,Atlas,0.0,0.0,0.0,0.0,footballcsv
-2022-07-03,2022-23,Apertura,1,False,Pumas UNAM,Tijuana,1.0,1.0,0.0,1.0,footballcsv
-2022-07-03,2022-23,Apertura,1,False,Santos Laguna,Monterrey,4.0,3.0,2.0,2.0,footballcsv
 2022-07-03,2022-23,Apertura,1,False,Atlético San Luis,León,1.0,2.0,0.0,1.0,footballcsv
+2022-07-03,2022-23,Apertura,1,False,Santos Laguna,Monterrey,4.0,3.0,2.0,2.0,footballcsv
+2022-07-03,2022-23,Apertura,1,False,Pumas UNAM,Tijuana,1.0,1.0,0.0,1.0,footballcsv
 2022-07-04,2022-23,Apertura,1,False,Pachuca,Querétaro,2.0,0.0,1.0,0.0,footballcsv
 2022-07-08,2022-23,Apertura,2,False,Tijuana,FC Juárez,0.0,2.0,0.0,0.0,footballcsv
 2022-07-08,2022-23,Apertura,2,False,Mazatlán FC,Tigres UANL,0.0,1.0,0.0,1.0,footballcsv
@@ -1314,26 +1314,26 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2022-07-16,2022-23,Apertura,3,False,Atlas,Cruz Azul,3.0,2.0,1.0,1.0,footballcsv
 2022-07-16,2022-23,Apertura,3,False,Santos Laguna,Guadalajara,1.0,1.0,0.0,0.0,footballcsv
 2022-07-17,2022-23,Apertura,3,False,Pumas UNAM,Necaxa,1.0,0.0,1.0,0.0,footballcsv
-2022-07-17,2022-23,Apertura,3,False,Atlético San Luis,Monterrey,0.0,1.0,0.0,0.0,footballcsv
 2022-07-17,2022-23,Apertura,3,False,Tigres UANL,Tijuana,1.0,0.0,0.0,0.0,footballcsv
+2022-07-17,2022-23,Apertura,3,False,Atlético San Luis,Monterrey,0.0,1.0,0.0,0.0,footballcsv
 2022-07-18,2022-23,Apertura,3,False,Pachuca,Mazatlán FC,1.0,1.0,0.0,0.0,footballcsv
 2022-07-20,2022-23,Apertura,4,False,Guadalajara,León,0.0,0.0,0.0,0.0,footballcsv
 2022-07-21,2022-23,Apertura,4,False,Querétaro,Monterrey,0.0,3.0,0.0,1.0,footballcsv
 2022-07-22,2022-23,Apertura,4,False,Necaxa,FC Juárez,1.0,0.0,1.0,0.0,footballcsv
 2022-07-22,2022-23,Apertura,4,False,Mazatlán FC,Atlético San Luis,1.0,1.0,1.0,1.0,footballcsv
-2022-07-23,2022-23,Apertura,4,False,Tigres UANL,Atlas,2.0,0.0,2.0,0.0,footballcsv
-2022-07-23,2022-23,Apertura,4,False,Tijuana,América,2.0,0.0,1.0,0.0,footballcsv
 2022-07-23,2022-23,Apertura,4,False,Toluca,Santos Laguna,2.0,1.0,2.0,0.0,footballcsv
 2022-07-23,2022-23,Apertura,4,False,Cruz Azul,Puebla,2.0,2.0,2.0,2.0,footballcsv
+2022-07-23,2022-23,Apertura,4,False,Tijuana,América,2.0,0.0,1.0,0.0,footballcsv
+2022-07-23,2022-23,Apertura,4,False,Tigres UANL,Atlas,2.0,0.0,2.0,0.0,footballcsv
 2022-07-24,2022-23,Apertura,4,False,Pachuca,Pumas UNAM,0.0,0.0,0.0,0.0,footballcsv
-2022-07-26,2022-23,Apertura,5,False,Monterrey,Puebla,1.0,0.0,1.0,0.0,footballcsv
-2022-07-26,2022-23,Apertura,5,False,FC Juárez,Tigres UANL,0.0,1.0,0.0,1.0,footballcsv
+2022-07-26,2022-23,Apertura,5,False,Atlas,Tijuana,1.0,2.0,1.0,2.0,footballcsv
 2022-07-26,2022-23,Apertura,5,False,Atlético San Luis,Cruz Azul,0.0,0.0,0.0,0.0,footballcsv
 2022-07-26,2022-23,Apertura,5,False,León,Toluca,0.0,1.0,0.0,0.0,footballcsv
-2022-07-26,2022-23,Apertura,5,False,Atlas,Tijuana,1.0,2.0,1.0,2.0,footballcsv
+2022-07-26,2022-23,Apertura,5,False,Monterrey,Puebla,1.0,0.0,1.0,0.0,footballcsv
+2022-07-26,2022-23,Apertura,5,False,FC Juárez,Tigres UANL,0.0,1.0,0.0,1.0,footballcsv
+2022-07-27,2022-23,Apertura,5,False,Pumas UNAM,Mazatlán FC,1.0,1.0,0.0,0.0,footballcsv
 2022-07-27,2022-23,Apertura,5,False,Querétaro,Guadalajara,2.0,2.0,1.0,1.0,footballcsv
 2022-07-27,2022-23,Apertura,5,False,Necaxa,Pachuca,2.0,0.0,1.0,0.0,footballcsv
-2022-07-27,2022-23,Apertura,5,False,Pumas UNAM,Mazatlán FC,1.0,1.0,0.0,0.0,footballcsv
 2022-07-29,2022-23,Apertura,6,False,FC Juárez,Toluca,1.0,1.0,0.0,0.0,footballcsv
 2022-07-30,2022-23,Apertura,6,False,Cruz Azul,Necaxa,1.0,0.0,1.0,0.0,footballcsv
 2022-07-30,2022-23,Apertura,6,False,Tigres UANL,Querétaro,2.0,1.0,1.0,1.0,footballcsv
@@ -1359,8 +1359,8 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2022-08-13,2022-23,Apertura,8,False,Pumas UNAM,América,0.0,3.0,0.0,1.0,footballcsv
 2022-08-13,2022-23,Apertura,8,False,Guadalajara,Atlas,1.0,1.0,0.0,0.0,footballcsv
 2022-08-13,2022-23,Apertura,8,False,León,Mazatlán FC,0.0,3.0,0.0,3.0,footballcsv
-2022-08-14,2022-23,Apertura,8,False,Tigres UANL,Santos Laguna,2.0,0.0,1.0,0.0,footballcsv
 2022-08-14,2022-23,Apertura,8,False,Cruz Azul,Toluca,2.0,3.0,1.0,2.0,footballcsv
+2022-08-14,2022-23,Apertura,8,False,Tigres UANL,Santos Laguna,2.0,0.0,1.0,0.0,footballcsv
 2022-08-16,2022-23,Apertura,9,False,Mazatlán FC,Querétaro,1.0,1.0,0.0,0.0,footballcsv
 2022-08-16,2022-23,Apertura,9,False,Puebla,Necaxa,2.0,2.0,1.0,0.0,footballcsv
 2022-08-16,2022-23,Apertura,9,False,Atlas,FC Juárez,0.0,1.0,0.0,0.0,footballcsv
@@ -1490,8 +1490,8 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2023-01-27,2022-23,Clausura,4,False,Tijuana,Pumas UNAM,0.0,0.0,0.0,0.0,footballcsv
 2023-01-27,2022-23,Clausura,4,False,Puebla,Monterrey,1.0,2.0,1.0,0.0,footballcsv
 2023-01-28,2022-23,Clausura,4,False,Tigres UANL,Atlético San Luis,0.0,0.0,0.0,0.0,footballcsv
-2023-01-28,2022-23,Clausura,4,False,América,Mazatlán FC,6.0,0.0,4.0,0.0,footballcsv
 2023-01-28,2022-23,Clausura,4,False,FC Juárez,Guadalajara,1.0,2.0,0.0,2.0,footballcsv
+2023-01-28,2022-23,Clausura,4,False,América,Mazatlán FC,6.0,0.0,4.0,0.0,footballcsv
 2023-01-29,2022-23,Clausura,4,False,Pachuca,Necaxa,2.0,1.0,1.0,0.0,footballcsv
 2023-01-29,2022-23,Clausura,4,False,Toluca,León,0.0,0.0,0.0,0.0,footballcsv
 2023-02-01,2022-23,Clausura,1,False,Atlas,Toluca,0.0,0.0,0.0,0.0,footballcsv
@@ -1504,28 +1504,28 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2023-02-05,2022-23,Clausura,5,False,Monterrey,Toluca,2.0,1.0,2.0,0.0,footballcsv
 2023-02-05,2022-23,Clausura,5,False,Guadalajara,Querétaro,1.0,1.0,0.0,0.0,footballcsv
 2023-02-05,2022-23,Clausura,5,False,Pumas UNAM,Atlas,2.0,2.0,2.0,1.0,footballcsv
-2023-02-09,2022-23,Clausura,6,False,Atlas,Monterrey,0.0,2.0,0.0,0.0,footballcsv
 2023-02-09,2022-23,Clausura,6,False,Querétaro,León,0.0,3.0,0.0,2.0,footballcsv
-2023-02-10,2022-23,Clausura,6,False,Puebla,Mazatlán FC,3.0,1.0,3.0,0.0,footballcsv
+2023-02-09,2022-23,Clausura,6,False,Atlas,Monterrey,0.0,2.0,0.0,0.0,footballcsv
 2023-02-10,2022-23,Clausura,6,False,Tijuana,Atlético San Luis,1.0,0.0,0.0,0.0,footballcsv
+2023-02-10,2022-23,Clausura,6,False,Puebla,Mazatlán FC,3.0,1.0,3.0,0.0,footballcsv
 2023-02-11,2022-23,Clausura,6,False,FC Juárez,Santos Laguna,3.0,1.0,0.0,1.0,footballcsv
 2023-02-11,2022-23,Clausura,6,False,América,Necaxa,2.0,1.0,1.0,0.0,footballcsv
 2023-02-11,2022-23,Clausura,6,False,Tigres UANL,Pumas UNAM,4.0,2.0,3.0,1.0,footballcsv
 2023-02-11,2022-23,Clausura,6,False,Pachuca,Guadalajara,1.0,1.0,0.0,1.0,footballcsv
 2023-02-12,2022-23,Clausura,6,False,Toluca,Cruz Azul,3.0,1.0,1.0,1.0,footballcsv
+2023-02-14,2022-23,Clausura,7,False,León,Puebla,2.0,0.0,0.0,0.0,footballcsv
 2023-02-14,2022-23,Clausura,7,False,Atlético San Luis,América,1.0,3.0,1.0,2.0,footballcsv
 2023-02-14,2022-23,Clausura,7,False,Tigres UANL,FC Juárez,0.0,0.0,0.0,0.0,footballcsv
-2023-02-14,2022-23,Clausura,7,False,León,Puebla,2.0,0.0,0.0,0.0,footballcsv
-2023-02-15,2022-23,Clausura,7,False,Monterrey,Querétaro,2.0,0.0,2.0,0.0,footballcsv
 2023-02-15,2022-23,Clausura,7,False,Guadalajara,Tijuana,2.0,1.0,1.0,1.0,footballcsv
 2023-02-15,2022-23,Clausura,7,False,Necaxa,Pumas UNAM,3.0,1.0,2.0,1.0,footballcsv
+2023-02-15,2022-23,Clausura,7,False,Monterrey,Querétaro,2.0,0.0,2.0,0.0,footballcsv
 2023-02-16,2022-23,Clausura,7,False,Mazatlán FC,Pachuca,2.0,3.0,0.0,1.0,footballcsv
-2023-02-17,2022-23,Clausura,8,False,Puebla,Cruz Azul,1.0,3.0,0.0,1.0,footballcsv
 2023-02-17,2022-23,Clausura,8,False,FC Juárez,León,0.0,0.0,0.0,0.0,footballcsv
-2023-02-18,2022-23,Clausura,8,False,Monterrey,Necaxa,2.0,1.0,0.0,0.0,footballcsv
-2023-02-18,2022-23,Clausura,8,False,Atlético San Luis,Santos Laguna,1.0,1.0,1.0,0.0,footballcsv
-2023-02-18,2022-23,Clausura,8,False,Pumas UNAM,Guadalajara,1.0,2.0,0.0,2.0,footballcsv
+2023-02-17,2022-23,Clausura,8,False,Puebla,Cruz Azul,1.0,3.0,0.0,1.0,footballcsv
 2023-02-18,2022-23,Clausura,8,False,Atlas,Tigres UANL,0.0,1.0,0.0,1.0,footballcsv
+2023-02-18,2022-23,Clausura,8,False,Pumas UNAM,Guadalajara,1.0,2.0,0.0,2.0,footballcsv
+2023-02-18,2022-23,Clausura,8,False,Atlético San Luis,Santos Laguna,1.0,1.0,1.0,0.0,footballcsv
+2023-02-18,2022-23,Clausura,8,False,Monterrey,Necaxa,2.0,1.0,0.0,0.0,footballcsv
 2023-02-19,2022-23,Clausura,8,False,América,Tijuana,2.0,1.0,1.0,0.0,footballcsv
 2023-02-19,2022-23,Clausura,8,False,Querétaro,Mazatlán FC,1.0,1.0,1.0,0.0,footballcsv
 2023-02-19,2022-23,Clausura,8,False,Pachuca,Toluca,1.0,2.0,0.0,1.0,footballcsv
@@ -1533,31 +1533,31 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2023-02-23,2022-23,Clausura,7,False,Santos Laguna,Toluca,0.0,5.0,0.0,2.0,footballcsv
 2023-02-24,2022-23,Clausura,9,False,Necaxa,Querétaro,1.0,1.0,1.0,0.0,footballcsv
 2023-02-24,2022-23,Clausura,9,False,Mazatlán FC,Pumas UNAM,1.0,2.0,1.0,0.0,footballcsv
-2023-02-25,2022-23,Clausura,9,False,Tigres UANL,Guadalajara,1.0,2.0,0.0,2.0,footballcsv
 2023-02-25,2022-23,Clausura,9,False,Atlas,América,2.0,2.0,1.0,2.0,footballcsv
+2023-02-25,2022-23,Clausura,9,False,Tigres UANL,Guadalajara,1.0,2.0,0.0,2.0,footballcsv
 2023-02-25,2022-23,Clausura,9,False,Cruz Azul,FC Juárez,1.0,0.0,1.0,0.0,footballcsv
-2023-02-26,2022-23,Clausura,9,False,Santos Laguna,Puebla,3.0,2.0,2.0,0.0,footballcsv
 2023-02-26,2022-23,Clausura,9,False,Tijuana,Pachuca,2.0,0.0,2.0,0.0,footballcsv
 2023-02-26,2022-23,Clausura,9,False,Toluca,Atlético San Luis,2.0,0.0,2.0,0.0,footballcsv
+2023-02-26,2022-23,Clausura,9,False,Santos Laguna,Puebla,3.0,2.0,2.0,0.0,footballcsv
 2023-02-27,2022-23,Clausura,9,False,León,Monterrey,1.0,1.0,1.0,0.0,footballcsv
-2023-03-03,2022-23,Clausura,10,False,Necaxa,Tigres UANL,0.0,1.0,0.0,1.0,footballcsv
 2023-03-03,2022-23,Clausura,10,False,Mazatlán FC,Cruz Azul,3.0,1.0,1.0,1.0,footballcsv
 2023-03-03,2022-23,Clausura,10,False,Tijuana,Atlas,1.0,1.0,1.0,1.0,footballcsv
+2023-03-03,2022-23,Clausura,10,False,Necaxa,Tigres UANL,0.0,1.0,0.0,1.0,footballcsv
 2023-03-04,2022-23,Clausura,10,False,América,Pachuca,0.0,3.0,0.0,3.0,footballcsv
 2023-03-04,2022-23,Clausura,10,False,León,Atlético San Luis,2.0,0.0,0.0,0.0,footballcsv
 2023-03-04,2022-23,Clausura,10,False,Monterrey,FC Juárez,3.0,0.0,1.0,0.0,footballcsv
 2023-03-04,2022-23,Clausura,10,False,Guadalajara,Santos Laguna,2.0,0.0,2.0,0.0,footballcsv
 2023-03-05,2022-23,Clausura,10,False,Pumas UNAM,Puebla,2.0,4.0,1.0,2.0,footballcsv
 2023-03-05,2022-23,Clausura,10,False,Querétaro,Toluca,1.0,0.0,1.0,0.0,footballcsv
-2023-03-10,2022-23,Clausura,11,False,Atlético San Luis,Querétaro,2.0,0.0,0.0,0.0,footballcsv
 2023-03-10,2022-23,Clausura,11,False,Puebla,Guadalajara,1.0,0.0,1.0,0.0,footballcsv
-2023-03-11,2022-23,Clausura,11,False,Tigres UANL,América,0.0,2.0,0.0,1.0,footballcsv
+2023-03-10,2022-23,Clausura,11,False,Atlético San Luis,Querétaro,2.0,0.0,0.0,0.0,footballcsv
 2023-03-11,2022-23,Clausura,11,False,Atlas,León,0.0,1.0,0.0,1.0,footballcsv
+2023-03-11,2022-23,Clausura,11,False,Tigres UANL,América,0.0,2.0,0.0,1.0,footballcsv
 2023-03-11,2022-23,Clausura,11,False,Cruz Azul,Pumas UNAM,1.0,0.0,0.0,0.0,footballcsv
-2023-03-12,2022-23,Clausura,11,False,Toluca,Mazatlán FC,4.0,1.0,2.0,1.0,footballcsv
-2023-03-12,2022-23,Clausura,11,False,Pachuca,Monterrey,1.0,2.0,1.0,1.0,footballcsv
 2023-03-12,2022-23,Clausura,11,False,Santos Laguna,Tijuana,3.0,2.0,1.0,1.0,footballcsv
 2023-03-12,2022-23,Clausura,11,False,FC Juárez,Necaxa,1.0,1.0,0.0,0.0,footballcsv
+2023-03-12,2022-23,Clausura,11,False,Pachuca,Monterrey,1.0,2.0,1.0,1.0,footballcsv
+2023-03-12,2022-23,Clausura,11,False,Toluca,Mazatlán FC,4.0,1.0,2.0,1.0,footballcsv
 2023-03-17,2022-23,Clausura,12,False,Mazatlán FC,Necaxa,0.0,1.0,0.0,1.0,footballcsv
 2023-03-17,2022-23,Clausura,12,False,Tijuana,Toluca,3.0,3.0,0.0,3.0,footballcsv
 2023-03-17,2022-23,Clausura,12,False,Puebla,Atlas,0.0,4.0,0.0,2.0,footballcsv
@@ -1571,21 +1571,21 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2023-03-29,2022-23,Clausura,4,False,Querétaro,Cruz Azul,2.0,2.0,0.0,1.0,footballcsv
 2023-03-31,2022-23,Clausura,13,False,FC Juárez,Puebla,0.0,2.0,0.0,0.0,footballcsv
 2023-03-31,2022-23,Clausura,13,False,Necaxa,Santos Laguna,0.0,0.0,0.0,0.0,footballcsv
+2023-04-01,2022-23,Clausura,13,False,Atlas,Guadalajara,3.0,3.0,2.0,2.0,footballcsv
+2023-04-01,2022-23,Clausura,13,False,Monterrey,Tijuana,4.0,0.0,3.0,0.0,footballcsv
 2023-04-01,2022-23,Clausura,13,False,Pachuca,Cruz Azul,0.0,2.0,0.0,1.0,footballcsv
 2023-04-01,2022-23,Clausura,13,False,América,León,2.0,2.0,0.0,1.0,footballcsv
-2023-04-01,2022-23,Clausura,13,False,Monterrey,Tijuana,4.0,0.0,3.0,0.0,footballcsv
-2023-04-01,2022-23,Clausura,13,False,Atlas,Guadalajara,3.0,3.0,2.0,2.0,footballcsv
 2023-04-02,2022-23,Clausura,13,False,Toluca,Tigres UANL,3.0,2.0,2.0,0.0,footballcsv
 2023-04-02,2022-23,Clausura,13,False,Atlético San Luis,Mazatlán FC,2.0,1.0,1.0,0.0,footballcsv
 2023-04-02,2022-23,Clausura,13,False,Querétaro,Pumas UNAM,1.0,0.0,0.0,0.0,footballcsv
 2023-04-07,2022-23,Clausura,14,False,Puebla,Toluca,1.0,2.0,0.0,2.0,footballcsv
 2023-04-07,2022-23,Clausura,14,False,Tijuana,Querétaro,1.0,2.0,0.0,1.0,footballcsv
-2023-04-08,2022-23,Clausura,14,False,Guadalajara,Necaxa,1.0,0.0,0.0,0.0,footballcsv
-2023-04-08,2022-23,Clausura,14,False,América,Monterrey,2.0,1.0,1.0,1.0,footballcsv
-2023-04-08,2022-23,Clausura,14,False,Tigres UANL,Mazatlán FC,1.0,2.0,0.0,2.0,footballcsv
 2023-04-08,2022-23,Clausura,14,False,León,Cruz Azul,0.0,0.0,0.0,0.0,footballcsv
-2023-04-09,2022-23,Clausura,14,False,Santos Laguna,Pachuca,1.0,4.0,1.0,2.0,footballcsv
+2023-04-08,2022-23,Clausura,14,False,Tigres UANL,Mazatlán FC,1.0,2.0,0.0,2.0,footballcsv
+2023-04-08,2022-23,Clausura,14,False,América,Monterrey,2.0,1.0,1.0,1.0,footballcsv
+2023-04-08,2022-23,Clausura,14,False,Guadalajara,Necaxa,1.0,0.0,0.0,0.0,footballcsv
 2023-04-09,2022-23,Clausura,14,False,FC Juárez,Atlas,1.0,1.0,1.0,1.0,footballcsv
+2023-04-09,2022-23,Clausura,14,False,Santos Laguna,Pachuca,1.0,4.0,1.0,2.0,footballcsv
 2023-04-09,2022-23,Clausura,14,False,Pumas UNAM,Atlético San Luis,3.0,1.0,2.0,1.0,footballcsv
 2023-04-13,2022-23,Clausura,15,False,Atlético San Luis,FC Juárez,2.0,0.0,1.0,0.0,footballcsv
 2023-04-14,2022-23,Clausura,15,False,Mazatlán FC,Tijuana,1.0,2.0,1.0,1.0,footballcsv
@@ -1593,35 +1593,35 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2023-04-15,2022-23,Clausura,15,False,Atlas,Pachuca,4.0,1.0,3.0,0.0,footballcsv
 2023-04-15,2022-23,Clausura,15,False,León,Guadalajara,0.0,2.0,0.0,0.0,footballcsv
 2023-04-15,2022-23,Clausura,15,False,Cruz Azul,América,1.0,3.0,1.0,1.0,footballcsv
+2023-04-16,2022-23,Clausura,15,False,Pumas UNAM,Toluca,3.0,1.0,3.0,1.0,footballcsv
 2023-04-16,2022-23,Clausura,15,False,Querétaro,Tigres UANL,0.0,0.0,0.0,0.0,footballcsv
 2023-04-16,2022-23,Clausura,15,False,Monterrey,Santos Laguna,1.0,2.0,1.0,1.0,footballcsv
-2023-04-16,2022-23,Clausura,15,False,Pumas UNAM,Toluca,3.0,1.0,3.0,1.0,footballcsv
 2023-04-20,2022-23,Clausura,16,False,Tigres UANL,Puebla,1.0,0.0,0.0,0.0,footballcsv
 2023-04-21,2022-23,Clausura,16,False,Necaxa,Atlas,1.0,3.0,0.0,3.0,footballcsv
 2023-04-21,2022-23,Clausura,16,False,Tijuana,León,0.0,0.0,0.0,0.0,footballcsv
 2023-04-21,2022-23,Clausura,16,False,Mazatlán FC,Monterrey,0.0,2.0,0.0,1.0,footballcsv
-2023-04-22,2022-23,Clausura,16,False,Pachuca,Atlético San Luis,2.0,1.0,0.0,1.0,footballcsv
-2023-04-22,2022-23,Clausura,16,False,Guadalajara,Cruz Azul,2.0,1.0,0.0,1.0,footballcsv
 2023-04-22,2022-23,Clausura,16,False,América,Pumas UNAM,1.0,1.0,0.0,0.0,footballcsv
+2023-04-22,2022-23,Clausura,16,False,Guadalajara,Cruz Azul,2.0,1.0,0.0,1.0,footballcsv
+2023-04-22,2022-23,Clausura,16,False,Pachuca,Atlético San Luis,2.0,1.0,0.0,1.0,footballcsv
 2023-04-23,2022-23,Clausura,16,False,Santos Laguna,Querétaro,0.0,2.0,0.0,0.0,footballcsv
 2023-04-23,2022-23,Clausura,16,False,Toluca,FC Juárez,1.0,1.0,1.0,0.0,footballcsv
 2023-04-28,2022-23,Clausura,17,False,FC Juárez,América,0.0,1.0,0.0,1.0,footballcsv
 2023-04-29,2022-23,Clausura,17,False,Puebla,Tijuana,5.0,2.0,2.0,1.0,footballcsv
-2023-04-29,2022-23,Clausura,17,False,Monterrey,Pumas UNAM,4.0,1.0,4.0,1.0,footballcsv
-2023-04-29,2022-23,Clausura,17,False,Guadalajara,Mazatlán FC,4.0,1.0,2.0,1.0,footballcsv
 2023-04-29,2022-23,Clausura,17,False,Cruz Azul,Santos Laguna,3.0,2.0,2.0,0.0,footballcsv
 2023-04-29,2022-23,Clausura,17,False,Atlético San Luis,Atlas,0.0,0.0,0.0,0.0,footballcsv
-2023-04-30,2022-23,Clausura,17,False,Querétaro,Pachuca,0.0,1.0,0.0,1.0,footballcsv
+2023-04-29,2022-23,Clausura,17,False,Monterrey,Pumas UNAM,4.0,1.0,4.0,1.0,footballcsv
+2023-04-29,2022-23,Clausura,17,False,Guadalajara,Mazatlán FC,4.0,1.0,2.0,1.0,footballcsv
 2023-04-30,2022-23,Clausura,17,False,Toluca,Necaxa,3.0,0.0,1.0,0.0,footballcsv
+2023-04-30,2022-23,Clausura,17,False,Querétaro,Pachuca,0.0,1.0,0.0,1.0,footballcsv
 2023-04-30,2022-23,Clausura,17,False,León,Tigres UANL,3.0,0.0,2.0,0.0,footballcsv
 2023-05-06,2022-23,Clausura - Liguilla,Reclassification,True,Pachuca,Santos Laguna,4.0,4.0,3.0,2.0,footballcsv
 2023-05-06,2022-23,Clausura - Liguilla,Reclassification,True,Cruz Azul,Atlas,0.0,1.0,0.0,1.0,footballcsv
-2023-05-07,2022-23,Clausura - Liguilla,Reclassification,True,León,Atlético San Luis,1.0,3.0,1.0,3.0,footballcsv
 2023-05-07,2022-23,Clausura - Liguilla,Reclassification,True,Tigres UANL,Puebla,1.0,0.0,0.0,0.0,footballcsv
+2023-05-07,2022-23,Clausura - Liguilla,Reclassification,True,León,Atlético San Luis,1.0,3.0,1.0,3.0,footballcsv
 2023-05-10,2022-23,Clausura - Liguilla,Quarterfinals,True,Atlético San Luis,América,1.0,3.0,1.0,3.0,footballcsv
 2023-05-10,2022-23,Clausura - Liguilla,Quarterfinals,True,Santos Laguna,Monterrey,0.0,0.0,0.0,0.0,footballcsv
-2023-05-11,2022-23,Clausura - Liguilla,Quarterfinals,True,Tigres UANL,Toluca,4.0,1.0,3.0,1.0,footballcsv
 2023-05-11,2022-23,Clausura - Liguilla,Quarterfinals,True,Atlas,Guadalajara,1.0,0.0,1.0,0.0,footballcsv
+2023-05-11,2022-23,Clausura - Liguilla,Quarterfinals,True,Tigres UANL,Toluca,4.0,1.0,3.0,1.0,footballcsv
 2023-05-13,2022-23,Clausura - Liguilla,Quarterfinals,True,América,Atlético San Luis,1.0,2.0,0.0,2.0,footballcsv
 2023-05-13,2022-23,Clausura - Liguilla,Quarterfinals,True,Monterrey,Santos Laguna,2.0,0.0,1.0,0.0,footballcsv
 2023-05-14,2022-23,Clausura - Liguilla,Quarterfinals,True,Guadalajara,Atlas,1.0,0.0,0.0,0.0,footballcsv
@@ -1633,8 +1633,8 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2023-05-25,2022-23,Clausura - Liguilla,Final,True,Tigres UANL,Guadalajara,0.0,0.0,0.0,0.0,footballcsv
 2023-05-28,2022-23,Clausura - Liguilla,Final,True,Guadalajara,Tigres UANL,2.0,2.0,2.0,0.0,footballcsv
 2023-06-30,2023-24,Apertura,1,False,América,FC Juárez,1.0,2.0,1.0,0.0,footballcsv
-2023-06-30,2023-24,Apertura,1,False,Mazatlán FC,Pachuca,1.0,1.0,0.0,1.0,footballcsv
 2023-06-30,2023-24,Apertura,1,False,Tijuana,Pumas UNAM,2.0,3.0,1.0,1.0,footballcsv
+2023-06-30,2023-24,Apertura,1,False,Mazatlán FC,Pachuca,1.0,1.0,0.0,1.0,footballcsv
 2023-07-01,2023-24,Apertura,1,False,Atlético San Luis,Monterrey,1.0,1.0,0.0,1.0,footballcsv
 2023-07-01,2023-24,Apertura,1,False,Tigres UANL,Puebla,1.0,1.0,0.0,0.0,footballcsv
 2023-07-01,2023-24,Apertura,1,False,Atlas,Cruz Azul,2.0,0.0,1.0,0.0,footballcsv
@@ -1643,14 +1643,14 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2023-07-03,2023-24,Apertura,1,False,León,Guadalajara,1.0,2.0,1.0,1.0,footballcsv
 2023-07-07,2023-24,Apertura,2,False,Necaxa,Tijuana,1.0,1.0,0.0,0.0,footballcsv
 2023-07-07,2023-24,Apertura,2,False,Puebla,Santos Laguna,2.0,3.0,2.0,2.0,footballcsv
-2023-07-08,2023-24,Apertura,2,False,Guadalajara,Atlético San Luis,3.0,1.0,2.0,1.0,footballcsv
 2023-07-08,2023-24,Apertura,2,False,Cruz Azul,Toluca,0.0,2.0,0.0,1.0,footballcsv
+2023-07-08,2023-24,Apertura,2,False,Guadalajara,Atlético San Luis,3.0,1.0,2.0,1.0,footballcsv
 2023-07-08,2023-24,Apertura,2,False,FC Juárez,Tigres UANL,1.0,1.0,0.0,1.0,footballcsv
-2023-07-09,2023-24,Apertura,2,False,Monterrey,Atlas,1.0,0.0,1.0,0.0,footballcsv
 2023-07-09,2023-24,Apertura,2,False,Pumas UNAM,Mazatlán FC,0.0,0.0,0.0,0.0,footballcsv
+2023-07-09,2023-24,Apertura,2,False,Monterrey,Atlas,1.0,0.0,1.0,0.0,footballcsv
 2023-07-10,2023-24,Apertura,2,False,León,Pachuca,4.0,0.0,3.0,0.0,footballcsv
-2023-07-13,2023-24,Apertura,3,False,Guadalajara,Necaxa,2.0,0.0,1.0,0.0,footballcsv
 2023-07-13,2023-24,Apertura,3,False,Santos Laguna,Atlas,0.0,0.0,0.0,0.0,footballcsv
+2023-07-13,2023-24,Apertura,3,False,Guadalajara,Necaxa,2.0,0.0,1.0,0.0,footballcsv
 2023-07-14,2023-24,Apertura,3,False,Mazatlán FC,Monterrey,0.0,3.0,0.0,0.0,footballcsv
 2023-07-14,2023-24,Apertura,3,False,Tijuana,Cruz Azul,2.0,1.0,0.0,1.0,footballcsv
 2023-07-15,2023-24,Apertura,3,False,Tigres UANL,León,1.0,0.0,1.0,0.0,footballcsv
@@ -1662,8 +1662,8 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2023-08-18,2023-24,Apertura,4,False,Pumas UNAM,Toluca,1.0,1.0,1.0,1.0,footballcsv
 2023-08-18,2023-24,Apertura,4,False,Puebla,Atlético San Luis,1.0,2.0,0.0,1.0,footballcsv
 2023-08-18,2023-24,Apertura,4,False,FC Juárez,Guadalajara,1.0,1.0,0.0,1.0,footballcsv
-2023-08-20,2023-24,Apertura,4,False,Necaxa,Tigres UANL,0.0,3.0,0.0,1.0,footballcsv
 2023-08-20,2023-24,Apertura,4,False,América,Atlas,1.0,1.0,1.0,1.0,footballcsv
+2023-08-20,2023-24,Apertura,4,False,Necaxa,Tigres UANL,0.0,3.0,0.0,1.0,footballcsv
 2023-08-20,2023-24,Apertura,4,False,Querétaro,Pachuca,1.0,1.0,1.0,0.0,footballcsv
 2023-08-20,2023-24,Apertura,4,False,Cruz Azul,Santos Laguna,2.0,2.0,2.0,1.0,footballcsv
 2023-08-22,2023-24,Apertura,5,False,Mazatlán FC,Puebla,1.0,0.0,0.0,0.0,footballcsv
@@ -1672,18 +1672,18 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2023-08-23,2023-24,Apertura,5,False,Pachuca,Cruz Azul,1.0,0.0,0.0,0.0,footballcsv
 2023-08-23,2023-24,Apertura,5,False,América,Necaxa,3.0,2.0,2.0,1.0,footballcsv
 2023-08-23,2023-24,Apertura,5,False,Atlético San Luis,León,3.0,0.0,1.0,0.0,footballcsv
-2023-08-25,2023-24,Apertura,6,False,Tijuana,Mazatlán FC,1.0,1.0,1.0,1.0,footballcsv
 2023-08-25,2023-24,Apertura,6,False,Puebla,FC Juárez,1.0,0.0,1.0,0.0,footballcsv
+2023-08-25,2023-24,Apertura,6,False,Tijuana,Mazatlán FC,1.0,1.0,1.0,1.0,footballcsv
 2023-08-26,2023-24,Apertura,6,False,Santos Laguna,Guadalajara,2.0,1.0,0.0,0.0,footballcsv
 2023-08-26,2023-24,Apertura,6,False,América,León,1.0,1.0,0.0,0.0,footballcsv
 2023-08-26,2023-24,Apertura,6,False,Atlas,Toluca,0.0,0.0,0.0,0.0,footballcsv
-2023-08-27,2023-24,Apertura,6,False,Monterrey,Cruz Azul,1.0,2.0,1.0,1.0,footballcsv
 2023-08-27,2023-24,Apertura,6,False,Necaxa,Querétaro,0.0,1.0,0.0,0.0,footballcsv
+2023-08-27,2023-24,Apertura,6,False,Monterrey,Cruz Azul,1.0,2.0,1.0,1.0,footballcsv
 2023-08-27,2023-24,Apertura,6,False,Pumas UNAM,Tigres UANL,2.0,1.0,0.0,0.0,footballcsv
 2023-08-28,2023-24,Apertura,6,False,Pachuca,Atlético San Luis,0.0,2.0,0.0,0.0,footballcsv
-2023-08-30,2023-24,Apertura,5,False,Querétaro,Atlas,1.0,2.0,0.0,1.0,footballcsv
 2023-08-30,2023-24,Apertura,5,False,Toluca,Monterrey,1.0,0.0,1.0,0.0,footballcsv
 2023-08-30,2023-24,Apertura,5,False,Tigres UANL,Santos Laguna,3.0,2.0,1.0,1.0,footballcsv
+2023-08-30,2023-24,Apertura,5,False,Querétaro,Atlas,1.0,2.0,0.0,1.0,footballcsv
 2023-09-01,2023-24,Apertura,7,False,Puebla,Tijuana,3.0,0.0,2.0,0.0,footballcsv
 2023-09-01,2023-24,Apertura,7,False,FC Juárez,Mazatlán FC,3.0,1.0,2.0,1.0,footballcsv
 2023-09-02,2023-24,Apertura,7,False,Tigres UANL,Querétaro,5.0,0.0,2.0,0.0,footballcsv
@@ -1709,9 +1709,9 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2023-09-23,2023-24,Apertura,9,False,Guadalajara,Pachuca,0.0,0.0,0.0,0.0,footballcsv
 2023-09-23,2023-24,Apertura,9,False,León,Tijuana,1.0,0.0,0.0,0.0,footballcsv
 2023-09-23,2023-24,Apertura,9,False,Tigres UANL,Monterrey,3.0,0.0,1.0,0.0,footballcsv
-2023-09-24,2023-24,Apertura,9,False,Santos Laguna,Necaxa,2.0,5.0,0.0,1.0,footballcsv
 2023-09-24,2023-24,Apertura,9,False,Toluca,América,1.0,1.0,0.0,1.0,footballcsv
 2023-09-24,2023-24,Apertura,9,False,Cruz Azul,Querétaro,1.0,3.0,1.0,0.0,footballcsv
+2023-09-24,2023-24,Apertura,9,False,Santos Laguna,Necaxa,2.0,5.0,0.0,1.0,footballcsv
 2023-09-26,2023-24,Apertura,11,False,Guadalajara,Mazatlán FC,1.0,3.0,0.0,2.0,footballcsv
 2023-09-28,2023-24,Apertura,10,False,Atlas,Puebla,2.0,3.0,1.0,2.0,footballcsv
 2023-09-29,2023-24,Apertura,10,False,Atlético San Luis,Cruz Azul,1.0,2.0,0.0,0.0,footballcsv
@@ -1728,10 +1728,10 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2023-10-04,2023-24,Apertura,11,False,Necaxa,Cruz Azul,1.0,3.0,0.0,1.0,footballcsv
 2023-10-04,2023-24,Apertura,11,False,Pumas UNAM,Querétaro,4.0,0.0,2.0,0.0,footballcsv
 2023-10-06,2023-24,Apertura,12,False,Mazatlán FC,América,1.0,2.0,1.0,0.0,footballcsv
-2023-10-07,2023-24,Apertura,12,False,Pachuca,Tigres UANL,1.0,1.0,1.0,1.0,footballcsv
-2023-10-07,2023-24,Apertura,12,False,Guadalajara,Atlas,4.0,1.0,1.0,1.0,footballcsv
-2023-10-07,2023-24,Apertura,12,False,Monterrey,FC Juárez,3.0,1.0,2.0,0.0,footballcsv
 2023-10-07,2023-24,Apertura,12,False,Cruz Azul,Pumas UNAM,1.0,4.0,1.0,1.0,footballcsv
+2023-10-07,2023-24,Apertura,12,False,Monterrey,FC Juárez,3.0,1.0,2.0,0.0,footballcsv
+2023-10-07,2023-24,Apertura,12,False,Guadalajara,Atlas,4.0,1.0,1.0,1.0,footballcsv
+2023-10-07,2023-24,Apertura,12,False,Pachuca,Tigres UANL,1.0,1.0,1.0,1.0,footballcsv
 2023-10-08,2023-24,Apertura,12,False,Toluca,Querétaro,3.0,1.0,1.0,1.0,footballcsv
 2023-10-08,2023-24,Apertura,12,False,Santos Laguna,León,0.0,2.0,0.0,1.0,footballcsv
 2023-10-08,2023-24,Apertura,12,False,Necaxa,Puebla,1.0,2.0,0.0,2.0,footballcsv
@@ -1743,8 +1743,8 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2023-10-21,2023-24,Apertura,13,False,Tigres UANL,Cruz Azul,2.0,1.0,0.0,1.0,footballcsv
 2023-10-21,2023-24,Apertura,13,False,América,Santos Laguna,4.0,3.0,3.0,2.0,footballcsv
 2023-10-21,2023-24,Apertura,13,False,Querétaro,Tijuana,1.0,0.0,0.0,0.0,footballcsv
-2023-10-22,2023-24,Apertura,13,False,Atlético San Luis,Necaxa,4.0,0.0,2.0,0.0,footballcsv
 2023-10-22,2023-24,Apertura,13,False,Pumas UNAM,Monterrey,0.0,1.0,0.0,0.0,footballcsv
+2023-10-22,2023-24,Apertura,13,False,Atlético San Luis,Necaxa,4.0,0.0,2.0,0.0,footballcsv
 2023-10-24,2023-24,Apertura,11,False,León,Atlas,1.0,1.0,0.0,1.0,footballcsv
 2023-10-25,2023-24,Apertura,4,False,Monterrey,Tijuana,3.0,1.0,2.0,0.0,footballcsv
 2023-10-25,2023-24,Apertura,11,False,FC Juárez,Atlético San Luis,3.0,2.0,2.0,0.0,footballcsv
@@ -1754,31 +1754,31 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2023-10-28,2023-24,Apertura,14,False,Monterrey,América,0.0,3.0,0.0,3.0,footballcsv
 2023-10-28,2023-24,Apertura,14,False,Cruz Azul,León,1.0,0.0,1.0,0.0,footballcsv
 2023-10-28,2023-24,Apertura,14,False,Pachuca,Puebla,1.0,1.0,1.0,1.0,footballcsv
+2023-10-29,2023-24,Apertura,14,False,Santos Laguna,FC Juárez,5.0,1.0,2.0,1.0,footballcsv
 2023-10-29,2023-24,Apertura,14,False,Tijuana,Atlas,2.0,0.0,1.0,0.0,footballcsv
 2023-10-29,2023-24,Apertura,14,False,Toluca,Atlético San Luis,3.0,1.0,1.0,0.0,footballcsv
-2023-10-29,2023-24,Apertura,14,False,Santos Laguna,FC Juárez,5.0,1.0,2.0,1.0,footballcsv
-2023-10-31,2023-24,Apertura,15,False,Monterrey,Necaxa,3.0,0.0,1.0,0.0,footballcsv
-2023-10-31,2023-24,Apertura,15,False,Querétaro,Guadalajara,1.0,2.0,0.0,2.0,footballcsv
 2023-10-31,2023-24,Apertura,15,False,León,Pumas UNAM,1.0,1.0,0.0,1.0,footballcsv
 2023-10-31,2023-24,Apertura,15,False,Toluca,Puebla,0.0,1.0,0.0,0.0,footballcsv
+2023-10-31,2023-24,Apertura,15,False,Querétaro,Guadalajara,1.0,2.0,0.0,2.0,footballcsv
+2023-10-31,2023-24,Apertura,15,False,Monterrey,Necaxa,3.0,0.0,1.0,0.0,footballcsv
+2023-11-01,2023-24,Apertura,15,False,Tijuana,Tigres UANL,2.0,0.0,2.0,0.0,footballcsv
+2023-11-01,2023-24,Apertura,15,False,Mazatlán FC,Santos Laguna,3.0,1.0,2.0,1.0,footballcsv
 2023-11-01,2023-24,Apertura,15,False,Atlas,Pachuca,0.0,2.0,0.0,1.0,footballcsv
 2023-11-01,2023-24,Apertura,15,False,Cruz Azul,FC Juárez,2.0,0.0,1.0,0.0,footballcsv
 2023-11-01,2023-24,Apertura,15,False,Atlético San Luis,América,0.0,1.0,0.0,1.0,footballcsv
-2023-11-01,2023-24,Apertura,15,False,Mazatlán FC,Santos Laguna,3.0,1.0,2.0,1.0,footballcsv
-2023-11-01,2023-24,Apertura,15,False,Tijuana,Tigres UANL,2.0,0.0,2.0,0.0,footballcsv
 2023-11-03,2023-24,Apertura,16,False,Puebla,León,5.0,4.0,1.0,3.0,footballcsv
 2023-11-04,2023-24,Apertura,16,False,Pachuca,Monterrey,0.0,2.0,0.0,2.0,footballcsv
 2023-11-04,2023-24,Apertura,16,False,América,Tijuana,3.0,0.0,0.0,0.0,footballcsv
 2023-11-04,2023-24,Apertura,16,False,Tigres UANL,Atlético San Luis,2.0,2.0,0.0,0.0,footballcsv
 2023-11-04,2023-24,Apertura,16,False,Guadalajara,Cruz Azul,1.0,0.0,0.0,0.0,footballcsv
-2023-11-05,2023-24,Apertura,16,False,Santos Laguna,Toluca,3.0,1.0,1.0,0.0,footballcsv
 2023-11-05,2023-24,Apertura,16,False,Pumas UNAM,Atlas,3.0,0.0,1.0,0.0,footballcsv
 2023-11-05,2023-24,Apertura,16,False,Necaxa,Mazatlán FC,4.0,0.0,2.0,0.0,footballcsv
+2023-11-05,2023-24,Apertura,16,False,Santos Laguna,Toluca,3.0,1.0,1.0,0.0,footballcsv
 2023-11-05,2023-24,Apertura,16,False,FC Juárez,Querétaro,0.0,3.0,0.0,1.0,footballcsv
 2023-11-08,2023-24,Apertura,10,False,Monterrey,Santos Laguna,3.0,0.0,1.0,0.0,footballcsv
+2023-11-10,2023-24,Apertura,17,False,Tijuana,Pachuca,2.0,3.0,1.0,0.0,footballcsv
 2023-11-10,2023-24,Apertura,17,False,Atlas,Necaxa,0.0,0.0,0.0,0.0,footballcsv
 2023-11-10,2023-24,Apertura,17,False,Mazatlán FC,Toluca,1.0,0.0,0.0,0.0,footballcsv
-2023-11-10,2023-24,Apertura,17,False,Tijuana,Pachuca,2.0,3.0,1.0,0.0,footballcsv
 2023-11-11,2023-24,Apertura,17,False,Atlético San Luis,Santos Laguna,0.0,2.0,0.0,2.0,footballcsv
 2023-11-11,2023-24,Apertura,17,False,Querétaro,Monterrey,0.0,0.0,0.0,0.0,footballcsv
 2023-11-11,2023-24,Apertura,17,False,Tigres UANL,América,0.0,0.0,0.0,0.0,footballcsv
@@ -1790,8 +1790,8 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2023-11-26,2023-24,Apertura - Liguilla,Play-in round 2,True,León,Santos Laguna,3.0,2.0,2.0,0.0,footballcsv
 2023-11-29,2023-24,Apertura - Liguilla,Quarterfinals,True,Atlético San Luis,Monterrey,1.0,0.0,1.0,0.0,footballcsv
 2023-11-29,2023-24,Apertura - Liguilla,Quarterfinals,True,León,América,2.0,2.0,2.0,1.0,footballcsv
-2023-11-30,2023-24,Apertura - Liguilla,Quarterfinals,True,Guadalajara,Pumas UNAM,1.0,0.0,1.0,0.0,footballcsv
 2023-11-30,2023-24,Apertura - Liguilla,Quarterfinals,True,Puebla,Tigres UANL,2.0,2.0,1.0,1.0,footballcsv
+2023-11-30,2023-24,Apertura - Liguilla,Quarterfinals,True,Guadalajara,Pumas UNAM,1.0,0.0,1.0,0.0,footballcsv
 2023-12-02,2023-24,Apertura - Liguilla,Quarterfinals,True,Monterrey,Atlético San Luis,1.0,1.0,1.0,0.0,footballcsv
 2023-12-02,2023-24,Apertura - Liguilla,Quarterfinals,True,América,León,2.0,0.0,0.0,0.0,footballcsv
 2023-12-03,2023-24,Apertura - Liguilla,Quarterfinals,True,Tigres UANL,Puebla,3.0,0.0,2.0,0.0,footballcsv
@@ -1804,10 +1804,10 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2023-12-17,2023-24,Apertura - Liguilla,Final,True,América,Tigres UANL,0.0,0.0,0.0,0.0,footballcsv
 2024-01-12,2023-24,Clausura,1,False,Querétaro,Toluca,2.0,2.0,1.0,0.0,footballcsv
 2024-01-12,2023-24,Clausura,1,False,Mazatlán FC,Atlético San Luis,0.0,1.0,0.0,0.0,footballcsv
-2024-01-13,2023-24,Clausura,1,False,Cruz Azul,Pachuca,0.0,1.0,0.0,0.0,footballcsv
-2024-01-13,2023-24,Clausura,1,False,Guadalajara,Santos Laguna,1.0,1.0,0.0,0.0,footballcsv
 2024-01-13,2023-24,Clausura,1,False,Monterrey,Puebla,2.0,0.0,0.0,0.0,footballcsv
 2024-01-13,2023-24,Clausura,1,False,Tijuana,América,0.0,2.0,0.0,0.0,footballcsv
+2024-01-13,2023-24,Clausura,1,False,Guadalajara,Santos Laguna,1.0,1.0,0.0,0.0,footballcsv
+2024-01-13,2023-24,Clausura,1,False,Cruz Azul,Pachuca,0.0,1.0,0.0,0.0,footballcsv
 2024-01-14,2023-24,Clausura,1,False,Necaxa,Atlas,2.0,1.0,0.0,1.0,footballcsv
 2024-01-14,2023-24,Clausura,1,False,Pumas UNAM,FC Juárez,1.0,0.0,0.0,0.0,footballcsv
 2024-01-17,2023-24,Clausura,1,False,León,Tigres UANL,1.0,2.0,0.0,0.0,footballcsv
@@ -1819,42 +1819,42 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2024-01-20,2023-24,Clausura,2,False,América,Querétaro,2.0,0.0,0.0,0.0,footballcsv
 2024-01-21,2023-24,Clausura,2,False,Tigres UANL,Guadalajara,1.0,0.0,0.0,0.0,footballcsv
 2024-01-21,2023-24,Clausura,2,False,Santos Laguna,Monterrey,0.0,2.0,0.0,1.0,footballcsv
-2024-01-24,2023-24,Clausura,4,False,FC Juárez,América,0.0,2.0,0.0,1.0,footballcsv
-2024-01-24,2023-24,Clausura,4,False,Monterrey,Querétaro,1.0,1.0,1.0,0.0,footballcsv
 2024-01-24,2023-24,Clausura,4,False,Atlético San Luis,Tigres UANL,1.0,2.0,1.0,0.0,footballcsv
+2024-01-24,2023-24,Clausura,4,False,Monterrey,Querétaro,1.0,1.0,1.0,0.0,footballcsv
+2024-01-24,2023-24,Clausura,4,False,FC Juárez,América,0.0,2.0,0.0,1.0,footballcsv
 2024-01-26,2023-24,Clausura,3,False,Puebla,Toluca,1.0,1.0,1.0,1.0,footballcsv
 2024-01-26,2023-24,Clausura,3,False,Tijuana,Guadalajara,1.0,1.0,1.0,0.0,footballcsv
+2024-01-27,2023-24,Clausura,3,False,Cruz Azul,Mazatlán FC,2.0,1.0,2.0,1.0,footballcsv
+2024-01-27,2023-24,Clausura,3,False,León,Santos Laguna,3.0,2.0,0.0,1.0,footballcsv
 2024-01-27,2023-24,Clausura,3,False,Necaxa,América,0.0,0.0,0.0,0.0,footballcsv
 2024-01-27,2023-24,Clausura,3,False,Monterrey,Atlético San Luis,3.0,1.0,2.0,1.0,footballcsv
-2024-01-27,2023-24,Clausura,3,False,León,Santos Laguna,3.0,2.0,0.0,1.0,footballcsv
-2024-01-27,2023-24,Clausura,3,False,Cruz Azul,Mazatlán FC,2.0,1.0,2.0,1.0,footballcsv
 2024-01-28,2023-24,Clausura,3,False,Atlas,FC Juárez,2.0,1.0,2.0,0.0,footballcsv
 2024-01-28,2023-24,Clausura,3,False,Pumas UNAM,Pachuca,3.0,1.0,2.0,1.0,footballcsv
 2024-01-28,2023-24,Clausura,3,False,Querétaro,Tigres UANL,1.0,1.0,1.0,0.0,footballcsv
 2024-01-30,2023-24,Clausura,4,False,Guadalajara,Toluca,3.0,2.0,2.0,2.0,footballcsv
-2024-01-30,2023-24,Clausura,4,False,Cruz Azul,Tijuana,1.0,0.0,0.0,0.0,footballcsv
 2024-01-30,2023-24,Clausura,4,False,Mazatlán FC,León,2.0,2.0,2.0,1.0,footballcsv
 2024-01-30,2023-24,Clausura,4,False,Santos Laguna,Puebla,3.0,0.0,0.0,0.0,footballcsv
-2024-01-31,2023-24,Clausura,4,False,Pachuca,Atlas,4.0,3.0,3.0,2.0,footballcsv
+2024-01-30,2023-24,Clausura,4,False,Cruz Azul,Tijuana,1.0,0.0,0.0,0.0,footballcsv
 2024-01-31,2023-24,Clausura,4,False,Pumas UNAM,Necaxa,2.0,2.0,1.0,0.0,footballcsv
+2024-01-31,2023-24,Clausura,4,False,Pachuca,Atlas,4.0,3.0,3.0,2.0,footballcsv
 2024-02-02,2023-24,Clausura,5,False,Querétaro,Cruz Azul,1.0,3.0,1.0,3.0,footballcsv
 2024-02-02,2023-24,Clausura,5,False,Puebla,Mazatlán FC,3.0,2.0,1.0,1.0,footballcsv
-2024-02-03,2023-24,Clausura,5,False,FC Juárez,Necaxa,2.0,2.0,1.0,1.0,footballcsv
 2024-02-03,2023-24,Clausura,5,False,América,Monterrey,1.0,1.0,1.0,1.0,footballcsv
+2024-02-03,2023-24,Clausura,5,False,Tigres UANL,Pumas UNAM,2.0,2.0,1.0,0.0,footballcsv
 2024-02-03,2023-24,Clausura,5,False,Pachuca,Tijuana,3.0,2.0,2.0,1.0,footballcsv
 2024-02-03,2023-24,Clausura,5,False,Toluca,León,4.0,1.0,3.0,0.0,footballcsv
-2024-02-03,2023-24,Clausura,5,False,Tigres UANL,Pumas UNAM,2.0,2.0,1.0,0.0,footballcsv
+2024-02-03,2023-24,Clausura,5,False,FC Juárez,Necaxa,2.0,2.0,1.0,1.0,footballcsv
 2024-02-04,2023-24,Clausura,5,False,Atlético San Luis,Guadalajara,0.0,2.0,0.0,1.0,footballcsv
 2024-02-04,2023-24,Clausura,5,False,Atlas,Santos Laguna,3.0,0.0,2.0,0.0,footballcsv
 2024-02-07,2023-24,Clausura,2,False,Pachuca,León,3.0,2.0,1.0,2.0,footballcsv
 2024-02-09,2023-24,Clausura,6,False,Tijuana,Querétaro,1.0,1.0,1.0,1.0,footballcsv
 2024-02-09,2023-24,Clausura,6,False,Mazatlán FC,Atlas,2.0,0.0,0.0,0.0,footballcsv
-2024-02-10,2023-24,Clausura,6,False,Santos Laguna,Tigres UANL,0.0,3.0,0.0,2.0,footballcsv
-2024-02-10,2023-24,Clausura,6,False,Monterrey,Pachuca,3.0,2.0,2.0,0.0,footballcsv
-2024-02-10,2023-24,Clausura,6,False,Cruz Azul,Atlético San Luis,3.0,0.0,1.0,0.0,footballcsv
+2024-02-10,2023-24,Clausura,6,False,León,América,0.0,1.0,0.0,0.0,footballcsv
 2024-02-10,2023-24,Clausura,6,False,Necaxa,Toluca,3.0,3.0,2.0,1.0,footballcsv
 2024-02-10,2023-24,Clausura,6,False,Guadalajara,FC Juárez,2.0,1.0,1.0,0.0,footballcsv
-2024-02-10,2023-24,Clausura,6,False,León,América,0.0,1.0,0.0,0.0,footballcsv
+2024-02-10,2023-24,Clausura,6,False,Monterrey,Pachuca,3.0,2.0,2.0,0.0,footballcsv
+2024-02-10,2023-24,Clausura,6,False,Cruz Azul,Atlético San Luis,3.0,0.0,1.0,0.0,footballcsv
+2024-02-10,2023-24,Clausura,6,False,Santos Laguna,Tigres UANL,0.0,3.0,0.0,2.0,footballcsv
 2024-02-11,2023-24,Clausura,6,False,Pumas UNAM,Puebla,3.0,0.0,0.0,0.0,footballcsv
 2024-02-14,2023-24,Clausura,9,False,Atlas,Pumas UNAM,0.0,0.0,0.0,0.0,footballcsv
 2024-02-16,2023-24,Clausura,7,False,Querétaro,Necaxa,1.0,1.0,1.0,0.0,footballcsv
@@ -1865,14 +1865,14 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2024-02-18,2023-24,Clausura,7,False,Monterrey,Toluca,0.0,0.0,0.0,0.0,footballcsv
 2024-02-18,2023-24,Clausura,7,False,Atlas,León,0.0,1.0,0.0,0.0,footballcsv
 2024-02-18,2023-24,Clausura,7,False,Pumas UNAM,Santos Laguna,3.0,0.0,2.0,0.0,footballcsv
-2024-02-20,2023-24,Clausura,9,False,Puebla,Pachuca,1.0,4.0,1.0,1.0,footballcsv
 2024-02-20,2023-24,Clausura,9,False,Necaxa,Guadalajara,1.0,0.0,1.0,0.0,footballcsv
-2024-02-21,2023-24,Clausura,9,False,León,Cruz Azul,2.0,3.0,0.0,2.0,footballcsv
-2024-02-21,2023-24,Clausura,9,False,Toluca,Santos Laguna,1.0,0.0,0.0,0.0,footballcsv
+2024-02-20,2023-24,Clausura,9,False,Puebla,Pachuca,1.0,4.0,1.0,1.0,footballcsv
 2024-02-21,2023-24,Clausura,9,False,América,Mazatlán FC,2.0,2.0,0.0,1.0,footballcsv
-2024-02-23,2023-24,Clausura,8,False,Puebla,Querétaro,0.0,2.0,0.0,0.0,footballcsv
-2024-02-23,2023-24,Clausura,8,False,Necaxa,Pachuca,1.0,1.0,1.0,0.0,footballcsv
+2024-02-21,2023-24,Clausura,9,False,Toluca,Santos Laguna,1.0,0.0,0.0,0.0,footballcsv
+2024-02-21,2023-24,Clausura,9,False,León,Cruz Azul,2.0,3.0,0.0,2.0,footballcsv
 2024-02-23,2023-24,Clausura,8,False,FC Juárez,Monterrey,0.0,3.0,0.0,0.0,footballcsv
+2024-02-23,2023-24,Clausura,8,False,Necaxa,Pachuca,1.0,1.0,1.0,0.0,footballcsv
+2024-02-23,2023-24,Clausura,8,False,Puebla,Querétaro,0.0,2.0,0.0,0.0,footballcsv
 2024-02-24,2023-24,Clausura,8,False,Tigres UANL,Atlas,1.0,1.0,1.0,0.0,footballcsv
 2024-02-24,2023-24,Clausura,8,False,América,Cruz Azul,1.0,0.0,1.0,0.0,footballcsv
 2024-02-24,2023-24,Clausura,8,False,Guadalajara,Pumas UNAM,3.0,1.0,0.0,0.0,footballcsv
@@ -1880,35 +1880,35 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2024-02-25,2023-24,Clausura,8,False,Santos Laguna,Mazatlán FC,1.0,0.0,0.0,0.0,footballcsv
 2024-02-25,2023-24,Clausura,8,False,Toluca,Tijuana,2.0,0.0,0.0,0.0,footballcsv
 2024-02-27,2023-24,Clausura,9,False,Querétaro,Atlético San Luis,4.0,1.0,2.0,0.0,footballcsv
-2024-02-28,2023-24,Clausura,9,False,Tijuana,Monterrey,1.0,1.0,0.0,0.0,footballcsv
 2024-02-28,2023-24,Clausura,9,False,Tigres UANL,FC Juárez,1.0,0.0,0.0,0.0,footballcsv
+2024-02-28,2023-24,Clausura,9,False,Tijuana,Monterrey,1.0,1.0,0.0,0.0,footballcsv
 2024-03-01,2023-24,Clausura,10,False,Mazatlán FC,Necaxa,2.0,1.0,0.0,0.0,footballcsv
 2024-03-01,2023-24,Clausura,10,False,Querétaro,Santos Laguna,0.0,1.0,0.0,0.0,footballcsv
 2024-03-01,2023-24,Clausura,10,False,Atlético San Luis,Puebla,4.0,0.0,2.0,0.0,footballcsv
-2024-03-02,2023-24,Clausura,10,False,Cruz Azul,Guadalajara,3.0,0.0,3.0,0.0,footballcsv
-2024-03-02,2023-24,Clausura,10,False,Pachuca,FC Juárez,3.0,2.0,0.0,0.0,footballcsv
 2024-03-02,2023-24,Clausura,10,False,Atlas,América,1.0,5.0,1.0,2.0,footballcsv
 2024-03-02,2023-24,Clausura,10,False,Toluca,Tigres UANL,2.0,1.0,0.0,1.0,footballcsv
+2024-03-02,2023-24,Clausura,10,False,Pachuca,FC Juárez,3.0,2.0,0.0,0.0,footballcsv
+2024-03-02,2023-24,Clausura,10,False,Cruz Azul,Guadalajara,3.0,0.0,3.0,0.0,footballcsv
 2024-03-03,2023-24,Clausura,10,False,Monterrey,Pumas UNAM,3.0,0.0,0.0,0.0,footballcsv
 2024-03-03,2023-24,Clausura,10,False,Tijuana,León,1.0,1.0,0.0,0.0,footballcsv
-2024-03-08,2023-24,Clausura,11,False,Puebla,Atlas,2.0,2.0,1.0,2.0,footballcsv
 2024-03-08,2023-24,Clausura,11,False,FC Juárez,Toluca,1.0,1.0,1.0,1.0,footballcsv
 2024-03-08,2023-24,Clausura,11,False,Necaxa,Atlético San Luis,3.0,1.0,2.0,1.0,footballcsv
-2024-03-09,2023-24,Clausura,11,False,Santos Laguna,Cruz Azul,3.0,0.0,1.0,0.0,footballcsv
-2024-03-09,2023-24,Clausura,11,False,Pachuca,Querétaro,1.0,2.0,0.0,1.0,footballcsv
+2024-03-08,2023-24,Clausura,11,False,Puebla,Atlas,2.0,2.0,1.0,2.0,footballcsv
 2024-03-09,2023-24,Clausura,11,False,Guadalajara,León,1.0,2.0,0.0,1.0,footballcsv
 2024-03-09,2023-24,Clausura,11,False,América,Tigres UANL,2.0,0.0,1.0,0.0,footballcsv
+2024-03-09,2023-24,Clausura,11,False,Santos Laguna,Cruz Azul,3.0,0.0,1.0,0.0,footballcsv
+2024-03-09,2023-24,Clausura,11,False,Pachuca,Querétaro,1.0,2.0,0.0,1.0,footballcsv
 2024-03-10,2023-24,Clausura,11,False,Pumas UNAM,Tijuana,3.0,3.0,2.0,1.0,footballcsv
 2024-03-10,2023-24,Clausura,11,False,Monterrey,Mazatlán FC,2.0,1.0,2.0,0.0,footballcsv
 2024-03-15,2023-24,Clausura,12,False,Querétaro,FC Juárez,1.0,0.0,1.0,0.0,footballcsv
 2024-03-15,2023-24,Clausura,12,False,Tijuana,Santos Laguna,2.0,2.0,0.0,1.0,footballcsv
-2024-03-16,2023-24,Clausura,12,False,Guadalajara,América,0.0,0.0,0.0,0.0,footballcsv
-2024-03-16,2023-24,Clausura,12,False,Tigres UANL,Mazatlán FC,5.0,1.0,2.0,0.0,footballcsv
 2024-03-16,2023-24,Clausura,12,False,Cruz Azul,Necaxa,1.0,2.0,1.0,2.0,footballcsv
 2024-03-16,2023-24,Clausura,12,False,León,Puebla,2.0,1.0,1.0,0.0,footballcsv
-2024-03-17,2023-24,Clausura,12,False,Toluca,Pumas UNAM,3.0,0.0,2.0,0.0,footballcsv
-2024-03-17,2023-24,Clausura,12,False,Atlas,Monterrey,1.0,2.0,0.0,1.0,footballcsv
+2024-03-16,2023-24,Clausura,12,False,Tigres UANL,Mazatlán FC,5.0,1.0,2.0,0.0,footballcsv
+2024-03-16,2023-24,Clausura,12,False,Guadalajara,América,0.0,0.0,0.0,0.0,footballcsv
 2024-03-17,2023-24,Clausura,12,False,Atlético San Luis,Pachuca,2.0,1.0,1.0,0.0,footballcsv
+2024-03-17,2023-24,Clausura,12,False,Atlas,Monterrey,1.0,2.0,0.0,1.0,footballcsv
+2024-03-17,2023-24,Clausura,12,False,Toluca,Pumas UNAM,3.0,0.0,2.0,0.0,footballcsv
 2024-03-23,2023-24,Clausura,7,False,FC Juárez,Puebla,4.0,3.0,1.0,1.0,footballcsv
 2024-03-29,2023-24,Clausura,13,False,Puebla,Tigres UANL,2.0,3.0,1.0,0.0,footballcsv
 2024-03-29,2023-24,Clausura,13,False,América,Atlético San Luis,2.0,1.0,0.0,0.0,footballcsv
@@ -1919,23 +1919,23 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2024-03-31,2023-24,Clausura,13,False,Necaxa,León,1.0,2.0,0.0,0.0,footballcsv
 2024-03-31,2023-24,Clausura,13,False,FC Juárez,Santos Laguna,2.0,1.0,0.0,0.0,footballcsv
 2024-03-31,2023-24,Clausura,13,False,Atlas,Querétaro,2.0,3.0,2.0,1.0,footballcsv
-2024-04-05,2023-24,Clausura,14,False,Tijuana,Necaxa,2.0,3.0,1.0,1.0,footballcsv
 2024-04-05,2023-24,Clausura,14,False,Mazatlán FC,Pumas UNAM,0.0,4.0,0.0,1.0,footballcsv
+2024-04-05,2023-24,Clausura,14,False,Tijuana,Necaxa,2.0,3.0,1.0,1.0,footballcsv
+2024-04-06,2023-24,Clausura,14,False,Guadalajara,Puebla,3.0,2.0,1.0,0.0,footballcsv
+2024-04-06,2023-24,Clausura,14,False,León,Querétaro,0.0,2.0,0.0,1.0,footballcsv
 2024-04-06,2023-24,Clausura,14,False,Santos Laguna,América,1.0,1.0,0.0,0.0,footballcsv
 2024-04-06,2023-24,Clausura,14,False,Tigres UANL,Pachuca,0.0,3.0,0.0,0.0,footballcsv
-2024-04-06,2023-24,Clausura,14,False,Guadalajara,Puebla,3.0,2.0,1.0,0.0,footballcsv
 2024-04-06,2023-24,Clausura,14,False,Cruz Azul,Monterrey,2.0,1.0,0.0,0.0,footballcsv
-2024-04-06,2023-24,Clausura,14,False,León,Querétaro,0.0,2.0,0.0,1.0,footballcsv
 2024-04-07,2023-24,Clausura,14,False,Toluca,Atlas,4.0,1.0,2.0,0.0,footballcsv
 2024-04-08,2023-24,Clausura,14,False,Atlético San Luis,FC Juárez,2.0,3.0,2.0,2.0,footballcsv
 2024-04-12,2023-24,Clausura,15,False,Querétaro,Mazatlán FC,0.0,2.0,0.0,1.0,footballcsv
 2024-04-12,2023-24,Clausura,15,False,Necaxa,Santos Laguna,2.0,0.0,1.0,0.0,footballcsv
 2024-04-12,2023-24,Clausura,15,False,Puebla,Cruz Azul,0.0,1.0,0.0,0.0,footballcsv
+2024-04-13,2023-24,Clausura,15,False,Pachuca,Guadalajara,0.0,1.0,0.0,1.0,footballcsv
 2024-04-13,2023-24,Clausura,15,False,América,Toluca,5.0,1.0,3.0,1.0,footballcsv
 2024-04-13,2023-24,Clausura,15,False,Monterrey,Tigres UANL,3.0,3.0,1.0,2.0,footballcsv
-2024-04-13,2023-24,Clausura,15,False,Pachuca,Guadalajara,0.0,1.0,0.0,1.0,footballcsv
-2024-04-14,2023-24,Clausura,15,False,Atlas,Atlético San Luis,2.0,1.0,1.0,1.0,footballcsv
 2024-04-14,2023-24,Clausura,15,False,FC Juárez,Tijuana,0.0,1.0,0.0,0.0,footballcsv
+2024-04-14,2023-24,Clausura,15,False,Atlas,Atlético San Luis,2.0,1.0,1.0,1.0,footballcsv
 2024-04-14,2023-24,Clausura,15,False,Pumas UNAM,León,1.0,0.0,0.0,0.0,footballcsv
 2024-04-19,2023-24,Clausura,16,False,Atlético San Luis,Toluca,1.0,5.0,1.0,2.0,footballcsv
 2024-04-19,2023-24,Clausura,16,False,Tijuana,Puebla,3.0,1.0,0.0,1.0,footballcsv
@@ -1948,11 +1948,11 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2024-04-21,2023-24,Clausura,16,False,Cruz Azul,Atlas,2.0,2.0,1.0,2.0,footballcsv
 2024-04-26,2023-24,Clausura,17,False,Querétaro,Pumas UNAM,1.0,1.0,0.0,0.0,footballcsv
 2024-04-26,2023-24,Clausura,17,False,Puebla,América,1.0,2.0,1.0,2.0,footballcsv
-2024-04-27,2023-24,Clausura,17,False,Atlas,Guadalajara,0.0,1.0,0.0,0.0,footballcsv
 2024-04-27,2023-24,Clausura,17,False,Toluca,Cruz Azul,0.0,1.0,0.0,1.0,footballcsv
+2024-04-27,2023-24,Clausura,17,False,Atlas,Guadalajara,0.0,1.0,0.0,0.0,footballcsv
 2024-04-27,2023-24,Clausura,17,False,Pachuca,Mazatlán FC,1.0,1.0,0.0,0.0,footballcsv
-2024-04-27,2023-24,Clausura,17,False,FC Juárez,León,1.0,1.0,1.0,0.0,footballcsv
 2024-04-27,2023-24,Clausura,17,False,Tigres UANL,Tijuana,4.0,1.0,1.0,0.0,footballcsv
+2024-04-27,2023-24,Clausura,17,False,FC Juárez,León,1.0,1.0,1.0,0.0,footballcsv
 2024-04-28,2023-24,Clausura,17,False,Santos Laguna,Atlético San Luis,0.0,3.0,0.0,2.0,footballcsv
 2024-04-28,2023-24,Clausura,17,False,Necaxa,Monterrey,2.0,5.0,0.0,0.0,footballcsv
 2024-05-02,2023-24,Clausura - Liguilla,Play-in round 1,True,Pachuca,Pumas UNAM,0.0,0.0,0.0,0.0,footballcsv
@@ -1964,8 +1964,8 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2024-05-09,2023-24,Clausura - Liguilla,Quarterfinals,True,Tigres UANL,Monterrey,1.0,2.0,1.0,1.0,footballcsv
 2024-05-11,2023-24,Clausura - Liguilla,Quarterfinals,True,América,Pachuca,1.0,1.0,0.0,1.0,footballcsv
 2024-05-11,2023-24,Clausura - Liguilla,Quarterfinals,True,Toluca,Guadalajara,0.0,0.0,0.0,0.0,footballcsv
-2024-05-12,2023-24,Clausura - Liguilla,Quarterfinals,True,Cruz Azul,Pumas UNAM,2.0,2.0,0.0,0.0,footballcsv
 2024-05-12,2023-24,Clausura - Liguilla,Quarterfinals,True,Monterrey,Tigres UANL,1.0,1.0,0.0,1.0,footballcsv
+2024-05-12,2023-24,Clausura - Liguilla,Quarterfinals,True,Cruz Azul,Pumas UNAM,2.0,2.0,0.0,0.0,footballcsv
 2024-05-15,2023-24,Clausura - Liguilla,Semifinals,True,Guadalajara,América,0.0,0.0,0.0,0.0,footballcsv
 2024-05-16,2023-24,Clausura - Liguilla,Semifinals,True,Monterrey,Cruz Azul,0.0,1.0,0.0,1.0,footballcsv
 2024-05-18,2023-24,Clausura - Liguilla,Semifinals,True,América,Guadalajara,1.0,0.0,0.0,0.0,footballcsv
@@ -1979,104 +1979,104 @@ date,season,stage,round,is_playoff,home_team,away_team,home_goals,away_goals,hom
 2024-07-06,2024-25,Apertura,1,False,Guadalajara,Toluca,0.0,0.0,0.0,0.0,footballcsv
 2024-07-06,2024-25,Apertura,1,False,Tigres UANL,Necaxa,1.0,0.0,1.0,0.0,footballcsv
 2024-07-06,2024-25,Apertura,1,False,Atlético San Luis,América,2.0,1.0,1.0,1.0,footballcsv
-2024-07-07,2024-25,Apertura,1,False,Pachuca,Monterrey,0.0,1.0,0.0,1.0,footballcsv
 2024-07-07,2024-25,Apertura,1,False,Pumas UNAM,León,4.0,1.0,2.0,1.0,footballcsv
-2024-07-12,2024-25,Apertura,2,False,Atlas,Tigres UANL,1.0,1.0,1.0,0.0,footballcsv
-2024-07-12,2024-25,Apertura,2,False,Tijuana,Guadalajara,4.0,2.0,1.0,0.0,footballcsv
+2024-07-07,2024-25,Apertura,1,False,Pachuca,Monterrey,0.0,1.0,0.0,1.0,footballcsv
 2024-07-12,2024-25,Apertura,2,False,América,Querétaro,3.0,1.0,2.0,1.0,footballcsv
 2024-07-12,2024-25,Apertura,2,False,Mazatlán FC,Atlético San Luis,2.0,2.0,0.0,0.0,footballcsv
+2024-07-12,2024-25,Apertura,2,False,Tijuana,Guadalajara,4.0,2.0,1.0,0.0,footballcsv
+2024-07-12,2024-25,Apertura,2,False,Atlas,Tigres UANL,1.0,1.0,1.0,0.0,footballcsv
 2024-07-13,2024-25,Apertura,2,False,León,Pachuca,0.0,0.0,0.0,0.0,footballcsv
 2024-07-13,2024-25,Apertura,2,False,Santos Laguna,Pumas UNAM,1.0,1.0,1.0,1.0,footballcsv
 2024-07-13,2024-25,Apertura,2,False,Toluca,FC Juárez,3.0,2.0,2.0,0.0,footballcsv
 2024-07-13,2024-25,Apertura,2,False,Monterrey,Cruz Azul,0.0,4.0,0.0,2.0,footballcsv
 2024-07-13,2024-25,Apertura,2,False,Necaxa,Puebla,4.0,1.0,2.0,0.0,footballcsv
-2024-07-16,2024-25,Apertura,3,False,Cruz Azul,Tijuana,3.0,0.0,2.0,0.0,footballcsv
-2024-07-16,2024-25,Apertura,3,False,Puebla,León,2.0,2.0,1.0,1.0,footballcsv
-2024-07-16,2024-25,Apertura,3,False,Pachuca,Atlético San Luis,2.0,0.0,1.0,0.0,footballcsv
-2024-07-16,2024-25,Apertura,3,False,Querétaro,Guadalajara,0.0,2.0,0.0,1.0,footballcsv
 2024-07-16,2024-25,Apertura,3,False,Atlas,Santos Laguna,1.0,0.0,0.0,0.0,footballcsv
-2024-07-17,2024-25,Apertura,3,False,Tigres UANL,América,1.0,0.0,0.0,0.0,footballcsv
-2024-07-17,2024-25,Apertura,3,False,Necaxa,Monterrey,0.0,1.0,0.0,0.0,footballcsv
+2024-07-16,2024-25,Apertura,3,False,Querétaro,Guadalajara,0.0,2.0,0.0,1.0,footballcsv
+2024-07-16,2024-25,Apertura,3,False,Cruz Azul,Tijuana,3.0,0.0,2.0,0.0,footballcsv
+2024-07-16,2024-25,Apertura,3,False,Pachuca,Atlético San Luis,2.0,0.0,1.0,0.0,footballcsv
+2024-07-16,2024-25,Apertura,3,False,Puebla,León,2.0,2.0,1.0,1.0,footballcsv
 2024-07-17,2024-25,Apertura,3,False,FC Juárez,Pumas UNAM,1.0,2.0,1.0,0.0,footballcsv
 2024-07-17,2024-25,Apertura,3,False,Toluca,Mazatlán FC,3.0,0.0,2.0,0.0,footballcsv
-2024-07-19,2024-25,Apertura,4,False,Atlético San Luis,Tijuana,1.0,1.0,1.0,1.0,footballcsv
+2024-07-17,2024-25,Apertura,3,False,Tigres UANL,América,1.0,0.0,0.0,0.0,footballcsv
+2024-07-17,2024-25,Apertura,3,False,Necaxa,Monterrey,0.0,1.0,0.0,0.0,footballcsv
 2024-07-19,2024-25,Apertura,4,False,Puebla,Atlas,1.0,2.0,0.0,2.0,footballcsv
+2024-07-19,2024-25,Apertura,4,False,Atlético San Luis,Tijuana,1.0,1.0,1.0,1.0,footballcsv
 2024-07-20,2024-25,Apertura,4,False,Guadalajara,Mazatlán FC,2.0,0.0,0.0,0.0,footballcsv
 2024-07-20,2024-25,Apertura,4,False,Santos Laguna,Tigres UANL,0.0,3.0,0.0,0.0,footballcsv
 2024-07-20,2024-25,Apertura,4,False,Monterrey,Querétaro,2.0,1.0,1.0,0.0,footballcsv
 2024-07-20,2024-25,Apertura,4,False,Cruz Azul,Toluca,1.0,1.0,0.0,1.0,footballcsv
 2024-07-20,2024-25,Apertura,4,False,FC Juárez,América,1.0,2.0,1.0,1.0,footballcsv
-2024-07-21,2024-25,Apertura,4,False,León,Necaxa,1.0,1.0,0.0,1.0,footballcsv
 2024-07-21,2024-25,Apertura,4,False,Pumas UNAM,Pachuca,2.0,0.0,1.0,0.0,footballcsv
+2024-07-21,2024-25,Apertura,4,False,León,Necaxa,1.0,1.0,0.0,1.0,footballcsv
 2024-08-16,2024-25,Apertura,16,False,Puebla,Monterrey,1.0,2.0,0.0,1.0,footballcsv
 2024-08-18,2024-25,Apertura,8,False,Tijuana,Santos Laguna,3.0,1.0,2.0,1.0,footballcsv
 2024-08-18,2024-25,Apertura,13,False,Atlético San Luis,Querétaro,4.0,0.0,2.0,0.0,footballcsv
 2024-08-23,2024-25,Apertura,5,False,Tijuana,Monterrey,2.0,2.0,1.0,2.0,footballcsv
 2024-08-23,2024-25,Apertura,5,False,Querétaro,Cruz Azul,0.0,2.0,0.0,1.0,footballcsv
 2024-08-23,2024-25,Apertura,5,False,Mazatlán FC,Pachuca,3.0,0.0,3.0,0.0,footballcsv
-2024-08-24,2024-25,Apertura,5,False,León,Santos Laguna,1.0,1.0,1.0,1.0,footballcsv
-2024-08-24,2024-25,Apertura,5,False,Necaxa,FC Juárez,3.0,0.0,1.0,0.0,footballcsv
-2024-08-24,2024-25,Apertura,5,False,Tigres UANL,Guadalajara,1.0,1.0,0.0,0.0,footballcsv
 2024-08-24,2024-25,Apertura,5,False,América,Puebla,0.0,1.0,0.0,0.0,footballcsv
+2024-08-24,2024-25,Apertura,5,False,Tigres UANL,Guadalajara,1.0,1.0,0.0,0.0,footballcsv
 2024-08-24,2024-25,Apertura,5,False,Atlas,Pumas UNAM,2.0,1.0,1.0,0.0,footballcsv
+2024-08-24,2024-25,Apertura,5,False,Necaxa,FC Juárez,3.0,0.0,1.0,0.0,footballcsv
+2024-08-24,2024-25,Apertura,5,False,León,Santos Laguna,1.0,1.0,1.0,1.0,footballcsv
 2024-08-25,2024-25,Apertura,5,False,Toluca,Atlético San Luis,2.0,1.0,1.0,1.0,footballcsv
-2024-08-30,2024-25,Apertura,6,False,Tijuana,León,2.0,1.0,1.0,1.0,footballcsv
 2024-08-30,2024-25,Apertura,6,False,Atlético San Luis,Atlas,2.0,1.0,1.0,0.0,footballcsv
+2024-08-30,2024-25,Apertura,6,False,Tijuana,León,2.0,1.0,1.0,1.0,footballcsv
 2024-08-30,2024-25,Apertura,6,False,Mazatlán FC,Puebla,1.0,1.0,1.0,1.0,footballcsv
-2024-08-31,2024-25,Apertura,6,False,Guadalajara,FC Juárez,5.0,0.0,4.0,0.0,footballcsv
-2024-08-31,2024-25,Apertura,6,False,Pachuca,Querétaro,1.0,1.0,0.0,1.0,footballcsv
-2024-08-31,2024-25,Apertura,6,False,Monterrey,Toluca,1.0,2.0,0.0,1.0,footballcsv
 2024-08-31,2024-25,Apertura,6,False,Cruz Azul,América,4.0,1.0,2.0,1.0,footballcsv
+2024-08-31,2024-25,Apertura,6,False,Guadalajara,FC Juárez,5.0,0.0,4.0,0.0,footballcsv
+2024-08-31,2024-25,Apertura,6,False,Monterrey,Toluca,1.0,2.0,0.0,1.0,footballcsv
+2024-08-31,2024-25,Apertura,6,False,Pachuca,Querétaro,1.0,1.0,0.0,1.0,footballcsv
 2024-09-01,2024-25,Apertura,6,False,Santos Laguna,Necaxa,3.0,2.0,0.0,1.0,footballcsv
 2024-09-01,2024-25,Apertura,6,False,Pumas UNAM,Tigres UANL,1.0,3.0,1.0,2.0,footballcsv
+2024-09-13,2024-25,Apertura,7,False,Puebla,Querétaro,2.0,1.0,1.0,0.0,footballcsv
+2024-09-13,2024-25,Apertura,7,False,Tigres UANL,Atlético San Luis,1.0,0.0,0.0,0.0,footballcsv
+2024-09-13,2024-25,Apertura,7,False,Necaxa,Pumas UNAM,2.0,0.0,0.0,0.0,footballcsv
 2024-09-13,2024-25,Apertura,7,False,FC Juárez,Mazatlán FC,1.0,0.0,0.0,0.0,footballcsv
 2024-09-13,2024-25,Apertura,7,False,Atlas,Pachuca,2.0,0.0,2.0,0.0,footballcsv
-2024-09-13,2024-25,Apertura,7,False,Tigres UANL,Atlético San Luis,1.0,0.0,0.0,0.0,footballcsv
-2024-09-13,2024-25,Apertura,7,False,Puebla,Querétaro,2.0,1.0,1.0,0.0,footballcsv
-2024-09-13,2024-25,Apertura,7,False,Necaxa,Pumas UNAM,2.0,0.0,0.0,0.0,footballcsv
 2024-09-14,2024-25,Apertura,7,False,León,Cruz Azul,1.0,2.0,1.0,1.0,footballcsv
 2024-09-14,2024-25,Apertura,7,False,América,Guadalajara,1.0,0.0,1.0,0.0,footballcsv
 2024-09-14,2024-25,Apertura,7,False,Santos Laguna,Monterrey,0.0,2.0,0.0,1.0,footballcsv
 2024-09-14,2024-25,Apertura,7,False,Toluca,Tijuana,4.0,0.0,1.0,0.0,footballcsv
-2024-09-17,2024-25,Apertura,8,False,Pachuca,Toluca,2.0,2.0,0.0,1.0,footballcsv
-2024-09-17,2024-25,Apertura,8,False,Atlético San Luis,Cruz Azul,3.0,1.0,2.0,1.0,footballcsv
 2024-09-17,2024-25,Apertura,8,False,Querétaro,Tigres UANL,1.0,0.0,1.0,0.0,footballcsv
-2024-09-17,2024-25,Apertura,8,False,Pumas UNAM,Puebla,1.0,0.0,0.0,0.0,footballcsv
 2024-09-17,2024-25,Apertura,8,False,América,Atlas,3.0,0.0,1.0,0.0,footballcsv
+2024-09-17,2024-25,Apertura,8,False,Pumas UNAM,Puebla,1.0,0.0,0.0,0.0,footballcsv
+2024-09-17,2024-25,Apertura,8,False,Atlético San Luis,Cruz Azul,3.0,1.0,2.0,1.0,footballcsv
+2024-09-17,2024-25,Apertura,8,False,Pachuca,Toluca,2.0,2.0,0.0,1.0,footballcsv
 2024-09-18,2024-25,Apertura,8,False,Guadalajara,León,2.0,0.0,1.0,0.0,footballcsv
 2024-09-18,2024-25,Apertura,8,False,Mazatlán FC,Necaxa,0.0,0.0,0.0,0.0,footballcsv
 2024-09-18,2024-25,Apertura,8,False,Monterrey,FC Juárez,3.0,2.0,1.0,0.0,footballcsv
-2026-07-17,2026-2027,,1,False,Necaxa,Atlante,2.0,1.0,,,thesportsdb
 2026-07-17,2026-2027,,1,False,Tijuana,Tigres UANL,3.0,1.0,,,thesportsdb
-2026-07-18,2026-2027,,1,False,FC Juárez,Puebla,0.0,1.0,,,thesportsdb
-2026-07-18,2026-2027,,1,False,León,Atlas,2.0,3.0,,,thesportsdb
+2026-07-17,2026-2027,,1,False,Necaxa,Atlante,2.0,1.0,,,thesportsdb
 2026-07-18,2026-2027,,1,False,Atlético San Luis,Cruz Azul,2.0,3.0,,,thesportsdb
-2026-07-22,2026-2027,,2,False,Cruz Azul,Puebla,2.0,1.0,,,thesportsdb
+2026-07-18,2026-2027,,1,False,León,Atlas,2.0,3.0,,,thesportsdb
+2026-07-18,2026-2027,,1,False,FC Juárez,Puebla,0.0,1.0,,,thesportsdb
 2026-07-22,2026-2027,,2,False,Toluca,Pumas UNAM,1.0,2.0,,,thesportsdb
+2026-07-22,2026-2027,,2,False,Cruz Azul,Puebla,2.0,1.0,,,thesportsdb
 2026-07-25,2026-2027,,2,False,Tijuana,León,1.0,0.0,,,thesportsdb
-2026-07-25,2026-2027,,2,False,Atlante,América,1.0,1.0,,,thesportsdb
 2026-07-25,2026-2027,,2,False,Guadalajara,FC Juárez,1.0,0.0,,,thesportsdb
+2026-07-25,2026-2027,,2,False,Atlante,América,1.0,1.0,,,thesportsdb
 2026-08-01,2026-2027,,3,False,Querétaro,Tigres UANL,3.0,2.0,,,thesportsdb
 2026-08-01,2026-2027,,3,False,Atlético San Luis,Tijuana,0.0,0.0,,,thesportsdb
 2026-08-01,2026-2027,,3,False,Puebla,Guadalajara,1.0,1.0,,,thesportsdb
 2026-08-01,2026-2027,,3,False,FC Juárez,Pumas UNAM,1.0,5.0,,,thesportsdb
 2026-08-02,2026-2027,,3,False,Atlas,Monterrey,0.0,2.0,,,thesportsdb
 2026-08-15,2026-2027,,4,False,Atlante,Toluca,0.0,0.0,,,thesportsdb
-2026-08-16,2026-2027,,4,False,Necaxa,León,1.0,2.0,,,manual_user_confirmed
 2026-08-16,2026-2027,,4,False,América,Atlético San Luis,3.0,0.0,,,thesportsdb
+2026-08-16,2026-2027,,4,False,Necaxa,León,1.0,2.0,,,manual_user_confirmed
 2026-08-16,2026-2027,,4,False,Pachuca,Puebla,2.0,3.0,,,manual_user_confirmed
 2026-08-16,2026-2027,,4,False,Pumas UNAM,Querétaro,0.0,0.0,,,thesportsdb
 2026-08-16,2026-2027,,4,False,Tijuana,Cruz Azul,2.0,1.0,,,manual_user_confirmed
 2026-08-16,2026-2027,,4,False,Monterrey,FC Juárez,6.0,1.0,,,thesportsdb
 2026-08-16,2026-2027,,4,False,Atlas,Tigres UANL,2.0,1.0,,,thesportsdb
 2026-08-16,2026-2027,,4,False,Santos Laguna,Guadalajara,0.0,1.0,,,manual_user_confirmed
-2026-08-22,2026-2027,,5,False,León,Monterrey,2.0,0.0,,,thesportsdb
-2026-08-22,2026-2027,,5,False,Querétaro,Toluca,1.0,2.0,,,thesportsdb
-2026-08-22,2026-2027,,5,False,Tigres UANL,Atlante,2.0,0.0,,,thesportsdb
 2026-08-22,2026-2027,,5,False,FC Juárez,América,1.0,2.0,,,thesportsdb
+2026-08-22,2026-2027,,5,False,Tigres UANL,Atlante,2.0,0.0,,,thesportsdb
 2026-08-22,2026-2027,,5,False,Guadalajara,Tijuana,5.0,2.0,,,thesportsdb
-2026-08-23,2026-2027,,5,False,Atlético San Luis,Pachuca,1.0,1.0,,,manual_user_confirmed
+2026-08-22,2026-2027,,5,False,Querétaro,Toluca,1.0,2.0,,,thesportsdb
+2026-08-22,2026-2027,,5,False,León,Monterrey,2.0,0.0,,,thesportsdb
 2026-08-23,2026-2027,,5,False,Pumas UNAM,Necaxa,1.0,1.0,,,manual_user_confirmed
+2026-08-23,2026-2027,,5,False,Atlético San Luis,Pachuca,1.0,1.0,,,manual_user_confirmed
 2026-08-23,2026-2027,,5,False,Puebla,Santos Laguna,3.0,2.0,,,manual_user_confirmed
 2026-08-23,2026-2027,,5,False,Cruz Azul,Atlas,0.0,2.0,,,manual_user_confirmed
 2026-08-24,2026-2027,,5,False,Pumas UNAM,Necaxa,1.0,1.0,,,thesportsdb
