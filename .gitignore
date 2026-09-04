@@ -6,6 +6,8 @@ backend/*.db
 backend/.env
 backend/server.log
 *.pyc
+__pycache__/
+**/__pycache__/
 
 # Node / frontend
 frontend/node_modules/
