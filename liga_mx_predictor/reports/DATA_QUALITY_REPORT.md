@@ -1,10 +1,10 @@
 # DATA_QUALITY_REPORT.md — Reporte de calidad de datos
 
-Generado por `scripts/merge_data.py`. Partidos jugados (con resultado): **2081**.
+Generado por `scripts/merge_data.py`. Partidos jugados (con resultado): **2090**.
 
 ## Rango de fechas
 - Min: 2018-07-20 00:00:00
-- Max: 2026-08-24 00:00:00
+- Max: 2026-08-31 00:00:00
 
 ## Temporadas incluidas
 2018-19, 2019-20, 2020-21, 2021-22, 2022-23, 2023-24, 2024-25, 2026-2027
@@ -35,9 +35,9 @@ Total: 22
 - Veracruz
 
 ## Valores faltantes por columna (partidos jugados)
-- stage: 34
-- home_ht_goals: 34
-- away_ht_goals: 34
+- stage: 43
+- home_ht_goals: 43
+- away_ht_goals: 43
 
 ## Duplicados exactos removidos en el merge
 0
@@ -49,43 +49,38 @@ Total: 22
 144
 
 ## Próximos partidos reales (sin resultado, fecha futura — usados para predicción)
-64
-- 2026-08-29: Necaxa vs Cruz Azul (jornada 6)
-- 2026-08-29: Pachuca vs Guadalajara (jornada 6)
-- 2026-08-29: Atlas vs Querétaro (jornada 6)
-- 2026-08-29: Tijuana vs Pumas UNAM (jornada 6)
-- 2026-08-29: Atlante vs León (jornada 6)
-- 2026-08-30: Santos Laguna vs Tigres UANL (jornada 6)
-- 2026-08-30: América vs Puebla (jornada 6)
-- 2026-08-30: Toluca vs FC Juárez (jornada 6)
-- 2026-08-30: Monterrey vs Atlético San Luis (jornada 6)
+59
+- 2026-09-05: Atlas vs Atlante (jornada 7)
+- 2026-09-05: América vs Tijuana (jornada 7)
+- 2026-09-05: Pumas UNAM vs León (jornada 7)
+- 2026-09-05: Cruz Azul vs Santos Laguna (jornada 7)
 - 2026-09-05: Puebla vs Toluca (jornada 7)
 - 2026-09-05: FC Juárez vs Pachuca (jornada 7)
 - 2026-09-05: Querétaro vs Monterrey (jornada 7)
 - 2026-09-05: Atlético San Luis vs Guadalajara (jornada 7)
 - 2026-09-06: Tigres UANL vs Necaxa (jornada 7)
-- 2026-09-12: León vs Atlético San Luis (jornada 8)
-- 2026-09-12: Atlante vs Pachuca (jornada 8)
 - 2026-09-12: Necaxa vs Puebla (jornada 8)
 - 2026-09-12: Tijuana vs Querétaro (jornada 8)
+- 2026-09-12: Atlante vs Pachuca (jornada 8)
+- 2026-09-12: León vs Atlético San Luis (jornada 8)
 - 2026-09-13: Toluca vs Atlas (jornada 8)
-- 2026-09-19: Puebla vs Atlante (jornada 9)
-- 2026-09-19: FC Juárez vs Tigres UANL (jornada 9)
 - 2026-09-19: Atlético San Luis vs Necaxa (jornada 9)
 - 2026-09-19: Atlas vs Pumas UNAM (jornada 9)
+- 2026-09-19: FC Juárez vs Tigres UANL (jornada 9)
+- 2026-09-19: Puebla vs Atlante (jornada 9)
 - 2026-09-20: Monterrey vs Cruz Azul (jornada 9)
-- 2026-09-26: Guadalajara vs Querétaro (jornada 10)
-- 2026-09-26: Tijuana vs Atlas (jornada 10)
 - 2026-09-26: Atlante vs Monterrey (jornada 10)
+- 2026-09-26: Tijuana vs Atlas (jornada 10)
+- 2026-09-26: Guadalajara vs Querétaro (jornada 10)
 - 2026-09-27: Tigres UANL vs Puebla (jornada 10)
 - 2026-09-27: Santos Laguna vs Pachuca (jornada 10)
-- 2026-10-10: Querétaro vs Atlante (jornada 11)
-- 2026-10-10: Tigres UANL vs Toluca (jornada 11)
 - 2026-10-10: FC Juárez vs Tijuana (jornada 11)
+- 2026-10-10: Tigres UANL vs Toluca (jornada 11)
 - 2026-10-10: Puebla vs León (jornada 11)
+- 2026-10-10: Querétaro vs Atlante (jornada 11)
 - 2026-10-11: Atlas vs Guadalajara (jornada 11)
-- 2026-10-17: Santos Laguna vs Querétaro (jornada 12)
 - 2026-10-17: Guadalajara vs Tigres UANL (jornada 12)
+- 2026-10-17: Santos Laguna vs Querétaro (jornada 12)
 - 2026-10-17: Atlante vs Pumas UNAM (jornada 12)
 - 2026-10-17: Tijuana vs Puebla (jornada 12)
 - 2026-10-17: Necaxa vs Atlas (jornada 12)
@@ -94,23 +89,23 @@ Total: 22
 - 2026-10-21: Tigres UANL vs León (jornada 13)
 - 2026-10-21: Guadalajara vs Necaxa (jornada 13)
 - 2026-10-22: Toluca vs Tijuana (jornada 13)
-- 2026-10-24: Atlante vs Atlético San Luis (jornada 14)
 - 2026-10-24: León vs Toluca (jornada 14)
+- 2026-10-24: Atlante vs Atlético San Luis (jornada 14)
 - 2026-10-24: Necaxa vs FC Juárez (jornada 14)
 - 2026-10-25: Pumas UNAM vs Tigres UANL (jornada 14)
 - 2026-10-25: Monterrey vs Guadalajara (jornada 14)
+- 2026-10-31: FC Juárez vs Querétaro (jornada 15)
+- 2026-10-31: Atlético San Luis vs Atlas (jornada 15)
 - 2026-10-31: Pachuca vs Tigres UANL (jornada 15)
 - 2026-10-31: Puebla vs Pumas UNAM (jornada 15)
-- 2026-10-31: Atlético San Luis vs Atlas (jornada 15)
-- 2026-10-31: FC Juárez vs Querétaro (jornada 15)
 - 2026-11-01: Guadalajara vs Atlante (jornada 15)
 - 2026-11-07: Atlas vs Pachuca (jornada 16)
 - 2026-11-07: Tigres UANL vs Cruz Azul (jornada 16)
 - 2026-11-07: Atlante vs Santos Laguna (jornada 16)
 - 2026-11-07: Atlético San Luis vs FC Juárez (jornada 16)
 - 2026-11-07: Necaxa vs Tijuana (jornada 16)
-- 2026-11-21: Santos Laguna vs León (jornada 17)
 - 2026-11-21: Pachuca vs Toluca (jornada 17)
-- 2026-11-21: Puebla vs Atlético San Luis (jornada 17)
+- 2026-11-21: Santos Laguna vs León (jornada 17)
 - 2026-11-21: FC Juárez vs Atlas (jornada 17)
 - 2026-11-21: Tijuana vs Atlante (jornada 17)
+- 2026-11-21: Puebla vs Atlético San Luis (jornada 17)

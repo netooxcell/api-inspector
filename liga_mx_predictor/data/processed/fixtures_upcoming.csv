@@ -1,40 +1,35 @@
 date,season,round,home_team,away_team,source
-2026-08-29,2026-2027,6,Necaxa,Cruz Azul,thesportsdb
-2026-08-29,2026-2027,6,Pachuca,Guadalajara,thesportsdb
-2026-08-29,2026-2027,6,Atlas,Querétaro,thesportsdb
-2026-08-29,2026-2027,6,Tijuana,Pumas UNAM,thesportsdb
-2026-08-29,2026-2027,6,Atlante,León,thesportsdb
-2026-08-30,2026-2027,6,Santos Laguna,Tigres UANL,manual_user_confirmed
-2026-08-30,2026-2027,6,América,Puebla,manual_user_confirmed
-2026-08-30,2026-2027,6,Toluca,FC Juárez,manual_user_confirmed
-2026-08-30,2026-2027,6,Monterrey,Atlético San Luis,manual_user_confirmed
+2026-09-05,2026-2027,7,Atlas,Atlante,manual_user_confirmed
+2026-09-05,2026-2027,7,América,Tijuana,manual_user_confirmed
+2026-09-05,2026-2027,7,Pumas UNAM,León,manual_user_confirmed
+2026-09-05,2026-2027,7,Cruz Azul,Santos Laguna,manual_user_confirmed
 2026-09-05,2026-2027,7,Puebla,Toluca,thesportsdb
 2026-09-05,2026-2027,7,FC Juárez,Pachuca,thesportsdb
 2026-09-05,2026-2027,7,Querétaro,Monterrey,thesportsdb
 2026-09-05,2026-2027,7,Atlético San Luis,Guadalajara,thesportsdb
 2026-09-06,2026-2027,7,Tigres UANL,Necaxa,thesportsdb
-2026-09-12,2026-2027,8,León,Atlético San Luis,thesportsdb
-2026-09-12,2026-2027,8,Atlante,Pachuca,thesportsdb
 2026-09-12,2026-2027,8,Necaxa,Puebla,thesportsdb
 2026-09-12,2026-2027,8,Tijuana,Querétaro,thesportsdb
+2026-09-12,2026-2027,8,Atlante,Pachuca,thesportsdb
+2026-09-12,2026-2027,8,León,Atlético San Luis,thesportsdb
 2026-09-13,2026-2027,8,Toluca,Atlas,thesportsdb
-2026-09-19,2026-2027,9,Puebla,Atlante,thesportsdb
-2026-09-19,2026-2027,9,FC Juárez,Tigres UANL,thesportsdb
 2026-09-19,2026-2027,9,Atlético San Luis,Necaxa,thesportsdb
 2026-09-19,2026-2027,9,Atlas,Pumas UNAM,thesportsdb
+2026-09-19,2026-2027,9,FC Juárez,Tigres UANL,thesportsdb
+2026-09-19,2026-2027,9,Puebla,Atlante,thesportsdb
 2026-09-20,2026-2027,9,Monterrey,Cruz Azul,thesportsdb
-2026-09-26,2026-2027,10,Guadalajara,Querétaro,thesportsdb
-2026-09-26,2026-2027,10,Tijuana,Atlas,thesportsdb
 2026-09-26,2026-2027,10,Atlante,Monterrey,thesportsdb
+2026-09-26,2026-2027,10,Tijuana,Atlas,thesportsdb
+2026-09-26,2026-2027,10,Guadalajara,Querétaro,thesportsdb
 2026-09-27,2026-2027,10,Tigres UANL,Puebla,thesportsdb
 2026-09-27,2026-2027,10,Santos Laguna,Pachuca,thesportsdb
-2026-10-10,2026-2027,11,Querétaro,Atlante,thesportsdb
-2026-10-10,2026-2027,11,Tigres UANL,Toluca,thesportsdb
 2026-10-10,2026-2027,11,FC Juárez,Tijuana,thesportsdb
+2026-10-10,2026-2027,11,Tigres UANL,Toluca,thesportsdb
 2026-10-10,2026-2027,11,Puebla,León,thesportsdb
+2026-10-10,2026-2027,11,Querétaro,Atlante,thesportsdb
 2026-10-11,2026-2027,11,Atlas,Guadalajara,thesportsdb
-2026-10-17,2026-2027,12,Santos Laguna,Querétaro,thesportsdb
 2026-10-17,2026-2027,12,Guadalajara,Tigres UANL,thesportsdb
+2026-10-17,2026-2027,12,Santos Laguna,Querétaro,thesportsdb
 2026-10-17,2026-2027,12,Atlante,Pumas UNAM,thesportsdb
 2026-10-17,2026-2027,12,Tijuana,Puebla,thesportsdb
 2026-10-17,2026-2027,12,Necaxa,Atlas,thesportsdb
@@ -43,23 +38,23 @@ date,season,round,home_team,away_team,source
 2026-10-21,2026-2027,13,Tigres UANL,León,thesportsdb
 2026-10-21,2026-2027,13,Guadalajara,Necaxa,thesportsdb
 2026-10-22,2026-2027,13,Toluca,Tijuana,thesportsdb
-2026-10-24,2026-2027,14,Atlante,Atlético San Luis,thesportsdb
 2026-10-24,2026-2027,14,León,Toluca,thesportsdb
+2026-10-24,2026-2027,14,Atlante,Atlético San Luis,thesportsdb
 2026-10-24,2026-2027,14,Necaxa,FC Juárez,thesportsdb
 2026-10-25,2026-2027,14,Pumas UNAM,Tigres UANL,thesportsdb
 2026-10-25,2026-2027,14,Monterrey,Guadalajara,thesportsdb
+2026-10-31,2026-2027,15,FC Juárez,Querétaro,thesportsdb
+2026-10-31,2026-2027,15,Atlético San Luis,Atlas,thesportsdb
 2026-10-31,2026-2027,15,Pachuca,Tigres UANL,thesportsdb
 2026-10-31,2026-2027,15,Puebla,Pumas UNAM,thesportsdb
-2026-10-31,2026-2027,15,Atlético San Luis,Atlas,thesportsdb
-2026-10-31,2026-2027,15,FC Juárez,Querétaro,thesportsdb
 2026-11-01,2026-2027,15,Guadalajara,Atlante,thesportsdb
 2026-11-07,2026-2027,16,Atlas,Pachuca,thesportsdb
 2026-11-07,2026-2027,16,Tigres UANL,Cruz Azul,thesportsdb
 2026-11-07,2026-2027,16,Atlante,Santos Laguna,thesportsdb
 2026-11-07,2026-2027,16,Atlético San Luis,FC Juárez,thesportsdb
 2026-11-07,2026-2027,16,Necaxa,Tijuana,thesportsdb
-2026-11-21,2026-2027,17,Santos Laguna,León,thesportsdb
 2026-11-21,2026-2027,17,Pachuca,Toluca,thesportsdb
-2026-11-21,2026-2027,17,Puebla,Atlético San Luis,thesportsdb
+2026-11-21,2026-2027,17,Santos Laguna,León,thesportsdb
 2026-11-21,2026-2027,17,FC Juárez,Atlas,thesportsdb
 2026-11-21,2026-2027,17,Tijuana,Atlante,thesportsdb
+2026-11-21,2026-2027,17,Puebla,Atlético San Luis,thesportsdb
