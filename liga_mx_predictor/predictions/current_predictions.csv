@@ -1,6 +1,10 @@
 date,home_team,away_team,home_win_probability,draw_probability,away_win_probability,home_expected_goals,away_expected_goals,most_likely_score,confidence,model_version
 2026-09-12,Necaxa,Puebla,0.4681,0.2711,0.2608,1.581,1.163,1-1,Media,liga-mx-predictor-v1.0 (2026-08-14)
-2026-09-12,Tijuana,Querétaro,0.4663,0.2739,0.2598,1.396,1.123,1-1,Media,liga-mx-predictor-v1.0 (2026-08-14)
-2026-09-12,Atlante,Pachuca,0.2458,0.3542,0.4,0.75,1.079,0-0,Alta incertidumbre,liga-mx-predictor-v1.0 (2026-08-14)
 2026-09-12,Toluca,Atlas,0.5117,0.2614,0.2269,1.696,1.023,1-1,Alta,liga-mx-predictor-v1.0 (2026-08-14)
+2026-09-12,Santos Laguna,FC Juárez,0.6047,0.2297,0.1656,1.981,0.928,2-0,Alta,liga-mx-predictor-v1.0 (2026-08-14)
+2026-09-12,Atlante,Pachuca,0.2458,0.3542,0.4,0.75,1.079,0-1,Alta incertidumbre,liga-mx-predictor-v1.0 (2026-08-14)
+2026-09-12,Monterrey,Tigres UANL,0.4646,0.2766,0.2588,1.292,1.039,1-1,Media,liga-mx-predictor-v1.0 (2026-08-14)
+2026-09-12,Tijuana,Querétaro,0.4663,0.2739,0.2598,1.396,1.123,1-1,Media,liga-mx-predictor-v1.0 (2026-08-14)
+2026-09-13,Guadalajara,Pumas UNAM,0.4646,0.2766,0.2588,1.387,0.973,1-1,Media,liga-mx-predictor-v1.0 (2026-08-14)
+2026-09-13,León,Atlético San Luis,0.5697,0.2247,0.2056,1.988,1.027,1-1,Alta,liga-mx-predictor-v1.0 (2026-08-14)
 2026-09-13,Cruz Azul,América,0.3339,0.303,0.3632,1.209,1.241,1-1,Alta incertidumbre,liga-mx-predictor-v1.0 (2026-08-14)
