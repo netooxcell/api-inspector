@@ -1,5 +1,5 @@
-date,home_team,away_team,round,season
-2026-09-05,América,Tijuana,7,2026-2027
-2026-09-05,Atlas,Atlante,7,2026-2027
-2026-09-05,Pumas UNAM,León,7,2026-2027
-2026-09-05,Cruz Azul,Santos Laguna,7,2026-2027
+date,home_team,away_team,round,season,home_goals,away_goals
+2026-09-10,Pumas UNAM,León,7,2026-2027,3,1
+2026-09-15,Puebla,Toluca,7,2026-2027,,
+2026-10-28,América,Tijuana,7,2026-2027,,
+2026-11-14,Querétaro,Monterrey,7,2026-2027,,
