@@ -1,0 +1,7 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,log_loss,brier_score,roc_auc_ovr_macro
+logistic_regression,0.4461,0.4035,0.3998,0.3923,1.1925,0.687,0.572
+random_forest,0.4694,0.6321,0.3904,0.3288,1.0538,0.635,0.5731
+gradient_boosting,0.4047,0.355,0.3623,0.3533,1.2927,0.7388,0.5514
+poisson,0.4762,0.3062,0.4091,0.3476,1.0426,0.6265,0.5955
+ensemble,0.4852,0.3136,0.408,0.3456,1.0395,0.6248,0.6
+ensemble_calibrated,0.4904,0.4636,0.4187,0.3598,1.0275,0.6181,0.6167
