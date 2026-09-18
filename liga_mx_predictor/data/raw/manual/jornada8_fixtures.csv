@@ -1,5 +1,5 @@
-date,home_team,away_team,round,season
-2026-09-12,Monterrey,Tigres UANL,8,2026-2027
-2026-09-12,Santos Laguna,FC Juárez,8,2026-2027
-2026-09-13,Guadalajara,Pumas UNAM,8,2026-2027
-2026-09-13,León,Atlético San Luis,8,2026-2027
+date,home_team,away_team,round,season,home_goals,away_goals
+2026-09-12,Monterrey,Tigres UANL,8,2026-2027,0,0
+2026-09-13,Santos Laguna,FC Juárez,8,2026-2027,2,1
+2026-09-13,Guadalajara,Pumas UNAM,8,2026-2027,3,0
+2026-09-13,León,Atlético San Luis,8,2026-2027,2,0
