@@ -1,280 +1,280 @@
 # Predicciones — Liga MX
 
-Jornada 9. Modelo: liga-mx-predictor-v1.0 (2026-08-14). Generado con datos disponibles hasta 2026-08-14.
+Jornada 10. Modelo: liga-mx-predictor-v1.0 (2026-08-14). Generado con datos disponibles hasta 2026-08-14.
 
 > Todas las probabilidades son estimaciones estadísticas de un modelo con incertidumbre considerable (ver reports/MODEL_COMPARISON.md y MODEL_ERROR_ANALYSIS.md). Ningún resultado está garantizado.
 
-## América vs Guadalajara
-**Fecha:** 2026-09-19
+## Atlante vs Monterrey
+**Fecha:** 2026-09-26
 
-- Home Win: **49%**
-- Draw: **28%**
-- Away Win: **23%**
+- Home Win: **2%**
+- Draw: **32%**
+- Away Win: **66%**
 
-**Expected Goals:** América: 1.60 — Guadalajara: 0.86
-**Most likely score:** 1-0
-**Confidence:** Media
-
-**Simulación Monte Carlo (10,000 corridas):**
-- Home 53.8% / Draw 26.5% / Away 19.7%
-- Goles esperados: América 1.59 (IC90% 0-4), Guadalajara 0.87 (IC90% 0-3)
-- Marcadores más probables: 1-0 (12.7%), 1-1 (12.4%), 2-0 (11.0%), 0-0 (9.5%), 2-1 (9.4%)
-- Over 1.5: 71% | Over 2.5: 45% | Under 2.5: 55% | Ambos anotan: 47%
-
-**Factores favorables al local:**
-- goles anotados en su rol
-- goles del local en los últimos 10 enfrentamientos directos
-- goles del local en los últimos 5 enfrentamientos directos
-- victorias del local en los últimos 10 enfrentamientos directos
-- % de victorias en su rol
-**Factores favorables al visitante:**
-- goles recibidos en su rol
-**Factores neutrales:** rating ELO, partidos jugados en el histórico disponible, días de descanso desde el último partido
-
----
-
-## Pachuca vs Tijuana
-**Fecha:** 2026-09-19
-
-- Home Win: **61%**
-- Draw: **22%**
-- Away Win: **17%**
-
-**Expected Goals:** Pachuca: 2.02 — Tijuana: 0.91
-**Most likely score:** 2-0
-**Confidence:** Alta
-
-**Simulación Monte Carlo (10,000 corridas):**
-- Home 62.8% / Draw 21.1% / Away 16.1%
-- Goles esperados: Pachuca 2.00 (IC90% 0-5), Tijuana 0.90 (IC90% 0-3)
-- Marcadores más probables: 2-0 (11.3%), 1-0 (10.4%), 1-1 (10.0%), 2-1 (9.9%), 3-0 (7.4%)
-- Over 1.5: 79% | Over 2.5: 56% | Under 2.5: 44% | Ambos anotan: 52%
-
-**Factores favorables al local:**
-- partidos jugados en el histórico disponible
-- goles anotados en su rol
-- goles del local en los últimos 10 enfrentamientos directos
-- goles del local en los últimos 5 enfrentamientos directos
-- victorias del local en los últimos 10 enfrentamientos directos
-**Factores favorables al visitante:**
-- goles recibidos en su rol
-**Factores neutrales:** rating ELO, días de descanso desde el último partido
-
----
-
-## Atlético San Luis vs Necaxa
-**Fecha:** 2026-09-19
-
-- Home Win: **43%**
-- Draw: **28%**
-- Away Win: **30%**
-
-**Expected Goals:** Atlético San Luis: 1.52 — Necaxa: 1.30
-**Most likely score:** 1-1
-**Confidence:** Media
-
-**Simulación Monte Carlo (10,000 corridas):**
-- Home 41.5% / Draw 26.1% / Away 32.3%
-- Goles esperados: Atlético San Luis 1.52 (IC90% 0-4), Necaxa 1.32 (IC90% 0-3)
-- Marcadores más probables: 1-1 (12.1%), 2-1 (8.8%), 1-0 (8.3%), 0-1 (7.3%), 1-2 (7.3%)
-- Over 1.5: 78% | Over 2.5: 54% | Under 2.5: 46% | Ambos anotan: 57%
-
-**Factores favorables al local:**
-- goles anotados en su rol
-- goles recibidos en su rol
-- % de victorias en su rol
-**Factores favorables al visitante:**
-- partidos jugados en el histórico disponible
-- goles del local en los últimos 10 enfrentamientos directos
-- días de descanso desde el último partido
-- victorias del local en los últimos 10 enfrentamientos directos
-- victorias del local en los últimos 5 enfrentamientos directos
-**Factores neutrales:** rating ELO, goles del local en los últimos 5 enfrentamientos directos
-
----
-
-## Atlas vs Pumas UNAM
-**Fecha:** 2026-09-19
-
-- Home Win: **41%**
-- Draw: **29%**
-- Away Win: **31%**
-
-**Expected Goals:** Atlas: 1.20 — Pumas UNAM: 1.14
-**Most likely score:** 1-1
-**Confidence:** Media
-
-**Simulación Monte Carlo (10,000 corridas):**
-- Home 37.1% / Draw 29.1% / Away 33.8%
-- Goles esperados: Atlas 1.20 (IC90% 0-3), Pumas UNAM 1.14 (IC90% 0-3)
-- Marcadores más probables: 1-1 (13.6%), 1-0 (11.1%), 0-0 (10.4%), 0-1 (10.1%), 2-1 (8.0%)
-- Over 1.5: 68% | Over 2.5: 41% | Under 2.5: 59% | Ambos anotan: 48%
-
-**Factores favorables al local:**
-- días de descanso desde el último partido
-**Factores favorables al visitante:**
-- goles anotados en su rol
-- goles del local en los últimos 10 enfrentamientos directos
-- goles recibidos en su rol
-- goles del local en los últimos 5 enfrentamientos directos
-**Factores neutrales:** rating ELO, partidos jugados en el histórico disponible, victorias del local en los últimos 10 enfrentamientos directos
-
----
-
-## FC Juárez vs Tigres UANL
-**Fecha:** 2026-09-19
-
-- Home Win: **19%**
-- Draw: **27%**
-- Away Win: **53%**
-
-**Expected Goals:** FC Juárez: 0.87 — Tigres UANL: 1.57
+**Expected Goals:** Atlante: 0.58 — Monterrey: 1.26
 **Most likely score:** 0-1
 **Confidence:** Alta
 
 **Simulación Monte Carlo (10,000 corridas):**
-- Home 20.0% / Draw 27.4% / Away 52.6%
-- Goles esperados: FC Juárez 0.87 (IC90% 0-3), Tigres UANL 1.56 (IC90% 0-4)
-- Marcadores más probables: 0-1 (13.6%), 1-1 (13.2%), 0-2 (10.1%), 0-0 (9.3%), 1-2 (9.0%)
-- Over 1.5: 71% | Over 2.5: 44% | Under 2.5: 56% | Ambos anotan: 47%
+- Home 16.8% / Draw 31.4% / Away 51.7%
+- Goles esperados: Atlante 0.59 (IC90% 0-2), Monterrey 1.24 (IC90% 0-3)
+- Marcadores más probables: 0-1 (19.7%), 0-0 (16.9%), 1-1 (12.2%), 0-2 (12.0%), 1-0 (8.6%)
+- Over 1.5: 56% | Over 2.5: 28% | Under 2.5: 72% | Ambos anotan: 32%
 
 **Factores favorables al local:**
+- días de descanso desde el último partido
 - goles recibidos en su rol
-- % de victorias en su rol
 **Factores favorables al visitante:**
 - rating ELO
 - partidos jugados en el histórico disponible
 - goles anotados en su rol
-- goles del local en los últimos 10 enfrentamientos directos
-- días de descanso desde el último partido
-
----
-
-## Puebla vs Atlante
-**Fecha:** 2026-09-19
-
-- Home Win: **57%**
-- Draw: **27%**
-- Away Win: **16%**
-
-**Expected Goals:** Puebla: 1.43 — Atlante: 0.57
-**Most likely score:** 1-0
-**Confidence:** Alta
-
-**Simulación Monte Carlo (10,000 corridas):**
-- Home 58.4% / Draw 27.3% / Away 14.3%
-- Goles esperados: Puebla 1.44 (IC90% 0-4), Atlante 0.57 (IC90% 0-2)
-- Marcadores más probables: 1-0 (18.9%), 2-0 (14.2%), 0-0 (13.7%), 1-1 (11.0%), 2-1 (7.9%)
-- Over 1.5: 60% | Over 2.5: 32% | Under 2.5: 68% | Ambos anotan: 34%
-
-**Factores favorables al local:**
-- partidos jugados en el histórico disponible
-- goles anotados en su rol
 - % de victorias en su rol
-**Factores favorables al visitante:**
-- días de descanso desde el último partido
-- goles recibidos en su rol
-**Factores neutrales:** rating ELO, goles del local en los últimos 10 enfrentamientos directos, goles del local en los últimos 5 enfrentamientos directos
+**Factores neutrales:** goles del local en los últimos 10 enfrentamientos directos, goles del local en los últimos 5 enfrentamientos directos, victorias del local en los últimos 10 enfrentamientos directos
 
 ---
 
-## Toluca vs Santos Laguna
-**Fecha:** 2026-09-20
+## Tijuana vs Atlas
+**Fecha:** 2026-09-26
 
-- Home Win: **50%**
-- Draw: **23%**
-- Away Win: **27%**
+- Home Win: **44%**
+- Draw: **28%**
+- Away Win: **28%**
 
-**Expected Goals:** Toluca: 1.88 — Santos Laguna: 1.38
+**Expected Goals:** Tijuana: 1.25 — Atlas: 1.11
 **Most likely score:** 1-1
 **Confidence:** Media
 
 **Simulación Monte Carlo (10,000 corridas):**
-- Home 50.0% / Draw 23.2% / Away 26.8%
-- Goles esperados: Toluca 1.90 (IC90% 0-4), Santos Laguna 1.36 (IC90% 0-3)
-- Marcadores más probables: 1-1 (10.4%), 2-1 (9.2%), 1-0 (7.0%), 2-0 (7.0%), 2-2 (6.8%)
-- Over 1.5: 84% | Over 2.5: 63% | Under 2.5: 37% | Ambos anotan: 64%
+- Home 38.5% / Draw 29.8% / Away 31.8%
+- Goles esperados: Tijuana 1.25 (IC90% 0-3), Atlas 1.12 (IC90% 0-3)
+- Marcadores más probables: 1-1 (13.8%), 1-0 (10.9%), 0-0 (10.5%), 0-1 (9.8%), 2-1 (8.2%)
+- Over 1.5: 69% | Over 2.5: 42% | Under 2.5: 58% | Ambos anotan: 48%
+
+**Factores favorables al local:**
+- goles del local en los últimos 10 enfrentamientos directos
+- goles del local en los últimos 5 enfrentamientos directos
+- victorias del local en los últimos 10 enfrentamientos directos
+- % de victorias en su rol
+- victorias del local en los últimos 5 enfrentamientos directos
+**Factores favorables al visitante:**
+- goles recibidos en su rol
+**Factores neutrales:** rating ELO, partidos jugados en el histórico disponible, goles anotados en su rol
+
+---
+
+## Guadalajara vs Querétaro
+**Fecha:** 2026-09-26
+
+- Home Win: **58%**
+- Draw: **26%**
+- Away Win: **16%**
+
+**Expected Goals:** Guadalajara: 1.56 — Querétaro: 0.78
+**Most likely score:** 1-0
+**Confidence:** Alta
+
+**Simulación Monte Carlo (10,000 corridas):**
+- Home 54.9% / Draw 27.0% / Away 18.0%
+- Goles esperados: Guadalajara 1.56 (IC90% 0-4), Querétaro 0.78 (IC90% 0-2)
+- Marcadores más probables: 1-0 (14.2%), 1-1 (12.2%), 2-0 (12.1%), 0-0 (10.5%), 2-1 (8.0%)
+- Over 1.5: 68% | Over 2.5: 41% | Under 2.5: 59% | Ambos anotan: 43%
 
 **Factores favorables al local:**
 - rating ELO
 - goles anotados en su rol
 - goles del local en los últimos 10 enfrentamientos directos
-- goles del local en los últimos 5 enfrentamientos directos
-- victorias del local en los últimos 10 enfrentamientos directos
-**Factores favorables al visitante:**
 - días de descanso desde el último partido
+- goles del local en los últimos 5 enfrentamientos directos
+**Factores favorables al visitante:**
 - goles recibidos en su rol
 **Factores neutrales:** partidos jugados en el histórico disponible
 
 ---
 
-## Querétaro vs León
-**Fecha:** 2026-09-20
+## Cruz Azul vs Toluca
+**Fecha:** 2026-09-26
 
-- Home Win: **32%**
-- Draw: **28%**
-- Away Win: **40%**
+- Home Win: **46%**
+- Draw: **27%**
+- Away Win: **27%**
 
-**Expected Goals:** Querétaro: 1.15 — León: 1.39
+**Expected Goals:** Cruz Azul: 1.73 — Toluca: 1.14
 **Most likely score:** 1-1
 **Confidence:** Media
 
 **Simulación Monte Carlo (10,000 corridas):**
-- Home 31.0% / Draw 27.8% / Away 41.3%
-- Goles esperados: Querétaro 1.16 (IC90% 0-3), León 1.39 (IC90% 0-4)
-- Marcadores más probables: 1-1 (13.0%), 0-1 (10.0%), 0-0 (8.6%), 1-2 (8.3%), 1-0 (8.2%)
-- Over 1.5: 73% | Over 2.5: 47% | Under 2.5: 53% | Ambos anotan: 52%
+- Home 50.6% / Draw 24.6% / Away 24.9%
+- Goles esperados: Cruz Azul 1.73 (IC90% 0-4), Toluca 1.15 (IC90% 0-3)
+- Marcadores más probables: 1-1 (11.4%), 2-1 (9.8%), 1-0 (9.0%), 2-0 (8.6%), 0-0 (6.2%)
+- Over 1.5: 79% | Over 2.5: 55% | Under 2.5: 45% | Ambos anotan: 57%
 
 **Factores favorables al local:**
 - goles anotados en su rol
-- días de descanso desde el último partido
+- goles del local en los últimos 10 enfrentamientos directos
+- goles recibidos en su rol
+- victorias del local en los últimos 10 enfrentamientos directos
 - % de victorias en su rol
 **Factores favorables al visitante:**
-- partidos jugados en el histórico disponible
+- goles del local en los últimos 5 enfrentamientos directos
+- victorias del local en los últimos 5 enfrentamientos directos
+**Factores neutrales:** rating ELO, partidos jugados en el histórico disponible, días de descanso desde el último partido
+
+---
+
+## Tigres UANL vs Puebla
+**Fecha:** 2026-09-27
+
+- Home Win: **60%**
+- Draw: **23%**
+- Away Win: **17%**
+
+**Expected Goals:** Tigres UANL: 1.87 — Puebla: 0.83
+**Most likely score:** 1-0
+**Confidence:** Alta
+
+**Simulación Monte Carlo (10,000 corridas):**
+- Home 62.4% / Draw 22.4% / Away 15.2%
+- Goles esperados: Tigres UANL 1.88 (IC90% 0-4), Puebla 0.81 (IC90% 0-3)
+- Marcadores más probables: 1-0 (12.5%), 2-0 (12.2%), 1-1 (10.9%), 2-1 (9.7%), 3-0 (7.3%)
+- Over 1.5: 76% | Over 2.5: 51% | Under 2.5: 49% | Ambos anotan: 48%
+
+**Factores favorables al local:**
+- rating ELO
 - goles del local en los últimos 10 enfrentamientos directos
 - goles del local en los últimos 5 enfrentamientos directos
 - victorias del local en los últimos 10 enfrentamientos directos
 - victorias del local en los últimos 5 enfrentamientos directos
-**Factores neutrales:** rating ELO, goles recibidos en su rol
+**Factores favorables al visitante:**
+- goles recibidos en su rol
+**Factores neutrales:** partidos jugados en el histórico disponible, goles anotados en su rol, días de descanso desde el último partido
 
 ---
 
-## Monterrey vs Cruz Azul
-**Fecha:** 2026-09-20
+## León vs FC Juárez
+**Fecha:** 2026-09-27
 
-- Home Win: **46%**
-- Draw: **28%**
-- Away Win: **26%**
+- Home Win: **60%**
+- Draw: **23%**
+- Away Win: **17%**
 
-**Expected Goals:** Monterrey: 1.41 — Cruz Azul: 0.96
+**Expected Goals:** León: 1.98 — FC Juárez: 0.81
+**Most likely score:** 2-0
+**Confidence:** Alta
+
+**Simulación Monte Carlo (10,000 corridas):**
+- Home 63.3% / Draw 21.9% / Away 14.8%
+- Goles esperados: León 1.96 (IC90% 0-4), FC Juárez 0.82 (IC90% 0-3)
+- Marcadores más probables: 2-0 (12.0%), 1-0 (11.0%), 1-1 (10.9%), 2-1 (9.9%), 3-0 (8.3%)
+- Over 1.5: 77% | Over 2.5: 53% | Under 2.5: 47% | Ambos anotan: 49%
+
+**Factores favorables al local:**
+- rating ELO
+- partidos jugados en el histórico disponible
+- goles anotados en su rol
+- goles del local en los últimos 10 enfrentamientos directos
+- goles del local en los últimos 5 enfrentamientos directos
+**Factores favorables al visitante:**
+- días de descanso desde el último partido
+- goles recibidos en su rol
+
+---
+
+## Pumas UNAM vs Atlético San Luis
+**Fecha:** 2026-09-27
+
+- Home Win: **52%**
+- Draw: **25%**
+- Away Win: **23%**
+
+**Expected Goals:** Pumas UNAM: 1.82 — Atlético San Luis: 1.07
+**Most likely score:** 1-1
+**Confidence:** Alta
+
+**Simulación Monte Carlo (10,000 corridas):**
+- Home 53.8% / Draw 24.4% / Away 21.8%
+- Goles esperados: Pumas UNAM 1.82 (IC90% 0-4), Atlético San Luis 1.08 (IC90% 0-3)
+- Marcadores más probables: 1-1 (10.8%), 2-1 (9.8%), 1-0 (9.4%), 2-0 (9.4%), 0-0 (6.4%)
+- Over 1.5: 79% | Over 2.5: 55% | Under 2.5: 45% | Ambos anotan: 56%
+
+**Factores favorables al local:**
+- partidos jugados en el histórico disponible
+- goles anotados en su rol
+- goles del local en los últimos 10 enfrentamientos directos
+- victorias del local en los últimos 10 enfrentamientos directos
+- % de victorias en su rol
+**Factores favorables al visitante:**
+- goles recibidos en su rol
+- goles del local en los últimos 5 enfrentamientos directos
+- victorias del local en los últimos 5 enfrentamientos directos
+**Factores neutrales:** rating ELO, días de descanso desde el último partido
+
+---
+
+## Santos Laguna vs Pachuca
+**Fecha:** 2026-09-27
+
+- Home Win: **38%**
+- Draw: **29%**
+- Away Win: **34%**
+
+**Expected Goals:** Santos Laguna: 1.54 — Pachuca: 1.40
+**Most likely score:** 1-1
+**Confidence:** Alta incertidumbre
+
+**Simulación Monte Carlo (10,000 corridas):**
+- Home 40.8% / Draw 25.6% / Away 33.6%
+- Goles esperados: Santos Laguna 1.57 (IC90% 0-4), Pachuca 1.41 (IC90% 0-4)
+- Marcadores más probables: 1-1 (11.9%), 2-1 (8.9%), 1-2 (8.2%), 1-0 (7.3%), 0-1 (6.7%)
+- Over 1.5: 80% | Over 2.5: 56% | Under 2.5: 44% | Ambos anotan: 60%
+
+**Factores favorables al local:**
+- (sin factores destacados)
+**Factores favorables al visitante:**
+- goles anotados en su rol
+- goles del local en los últimos 10 enfrentamientos directos
+- días de descanso desde el último partido
+- goles del local en los últimos 5 enfrentamientos directos
+- victorias del local en los últimos 10 enfrentamientos directos
+**Factores neutrales:** rating ELO, partidos jugados en el histórico disponible, goles recibidos en su rol
+
+---
+
+## Necaxa vs América
+**Fecha:** 2026-09-27
+
+- Home Win: **25%**
+- Draw: **29%**
+- Away Win: **47%**
+
+**Expected Goals:** Necaxa: 1.11 — América: 1.61
 **Most likely score:** 1-1
 **Confidence:** Media
 
 **Simulación Monte Carlo (10,000 corridas):**
-- Home 45.9% / Draw 28.8% / Away 25.3%
-- Goles esperados: Monterrey 1.41 (IC90% 0-4), Cruz Azul 0.98 (IC90% 0-3)
-- Marcadores más probables: 1-1 (13.2%), 1-0 (11.9%), 0-0 (10.3%), 2-0 (9.0%), 2-1 (8.7%)
-- Over 1.5: 69% | Over 2.5: 42% | Under 2.5: 58% | Ambos anotan: 47%
+- Home 26.0% / Draw 25.6% / Away 48.4%
+- Goles esperados: Necaxa 1.10 (IC90% 0-3), América 1.59 (IC90% 0-4)
+- Marcadores más probables: 1-1 (12.3%), 0-1 (10.5%), 1-2 (9.7%), 0-2 (8.5%), 0-0 (7.1%)
+- Over 1.5: 76% | Over 2.5: 51% | Under 2.5: 49% | Ambos anotan: 54%
 
 **Factores favorables al local:**
-- goles anotados en su rol
-- días de descanso desde el último partido
+- (sin factores destacados)
 **Factores favorables al visitante:**
+- rating ELO
+- partidos jugados en el histórico disponible
+- goles anotados en su rol
+- goles del local en los últimos 10 enfrentamientos directos
 - goles recibidos en su rol
-- goles del local en los últimos 5 enfrentamientos directos
-- % de victorias en su rol
-- victorias del local en los últimos 5 enfrentamientos directos
-**Factores neutrales:** rating ELO, partidos jugados en el histórico disponible, goles del local en los últimos 10 enfrentamientos directos
+**Factores neutrales:** días de descanso desde el último partido, % de victorias en su rol
 
 ---
 
 ## Predicción conservadora (probabilidad máxima ≥ 65%)
-Ningún partido de esta jornada alcanza el umbral de 65%. No se fuerzan picks: se devuelve una lista vacía.
+- Atlante vs Monterrey: Away (66%) — el modelo estima una probabilidad de 66%, no una certeza.
 
 ## Predicción de riesgo / valor (partidos con situación estadística interesante)
-- Querétaro vs León: H 32% / D 28% / A 40% — seleccionado por su reparto de probabilidades cerrado (Media), lo que implica que el modelo no encuentra un favorito claro y el resultado real puede aportar valor frente a un mercado que sí marque favorito.
-- Atlas vs Pumas UNAM: H 41% / D 29% / A 31% — seleccionado por su reparto de probabilidades cerrado (Media), lo que implica que el modelo no encuentra un favorito claro y el resultado real puede aportar valor frente a un mercado que sí marque favorito.
-- Atlético San Luis vs Necaxa: H 43% / D 28% / A 30% — seleccionado por su reparto de probabilidades cerrado (Media), lo que implica que el modelo no encuentra un favorito claro y el resultado real puede aportar valor frente a un mercado que sí marque favorito.
-- Monterrey vs Cruz Azul: H 46% / D 28% / A 26% — seleccionado por su reparto de probabilidades cerrado (Media), lo que implica que el modelo no encuentra un favorito claro y el resultado real puede aportar valor frente a un mercado que sí marque favorito.
+- Santos Laguna vs Pachuca: H 38% / D 29% / A 34% — seleccionado por su reparto de probabilidades cerrado (Alta incertidumbre), lo que implica que el modelo no encuentra un favorito claro y el resultado real puede aportar valor frente a un mercado que sí marque favorito.
+- Tijuana vs Atlas: H 44% / D 28% / A 28% — seleccionado por su reparto de probabilidades cerrado (Media), lo que implica que el modelo no encuentra un favorito claro y el resultado real puede aportar valor frente a un mercado que sí marque favorito.
+- Necaxa vs América: H 25% / D 29% / A 47% — seleccionado por su reparto de probabilidades cerrado (Media), lo que implica que el modelo no encuentra un favorito claro y el resultado real puede aportar valor frente a un mercado que sí marque favorito.
+- Cruz Azul vs Toluca: H 46% / D 27% / A 27% — seleccionado por su reparto de probabilidades cerrado (Media), lo que implica que el modelo no encuentra un favorito claro y el resultado real puede aportar valor frente a un mercado que sí marque favorito.
 
-*Nota: solo 9 de 51 próximos partidos catalogados están disponibles para esta jornada por la limitación de la fuente gratuita TheSportsDB (ver reports/DATA_SOURCES.md) — no se completan los partidos faltantes con datos inventados.*
+*Nota: solo 9 de 46 próximos partidos catalogados están disponibles para esta jornada por la limitación de la fuente gratuita TheSportsDB (ver reports/DATA_SOURCES.md) — no se completan los partidos faltantes con datos inventados.*

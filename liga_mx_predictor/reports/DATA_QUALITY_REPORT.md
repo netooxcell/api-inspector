@@ -1,10 +1,10 @@
 # DATA_QUALITY_REPORT.md — Reporte de calidad de datos
 
-Generado por `scripts/merge_data.py`. Partidos jugados (con resultado): **2106**.
+Generado por `scripts/merge_data.py`. Partidos jugados (con resultado): **2115**.
 
 ## Rango de fechas
 - Min: 2018-07-20 00:00:00
-- Max: 2026-09-16 00:00:00
+- Max: 2026-09-21 00:00:00
 
 ## Temporadas incluidas
 2018-19, 2019-20, 2020-21, 2021-22, 2022-23, 2023-24, 2024-25, 2026-2027
@@ -35,9 +35,9 @@ Total: 22
 - Veracruz
 
 ## Valores faltantes por columna (partidos jugados)
-- stage: 59
-- home_ht_goals: 59
-- away_ht_goals: 59
+- stage: 68
+- home_ht_goals: 68
+- away_ht_goals: 68
 
 ## Duplicados exactos removidos en el merge
 0
@@ -49,55 +49,50 @@ Total: 22
 144
 
 ## Próximos partidos reales (sin resultado, fecha futura — usados para predicción)
-51
-- 2026-09-19: América vs Guadalajara (jornada 9)
-- 2026-09-19: Pachuca vs Tijuana (jornada 9)
-- 2026-09-19: Atlético San Luis vs Necaxa (jornada 9)
-- 2026-09-19: Atlas vs Pumas UNAM (jornada 9)
-- 2026-09-19: FC Juárez vs Tigres UANL (jornada 9)
-- 2026-09-19: Puebla vs Atlante (jornada 9)
-- 2026-09-20: Toluca vs Santos Laguna (jornada 9)
-- 2026-09-20: Querétaro vs León (jornada 9)
-- 2026-09-20: Monterrey vs Cruz Azul (jornada 9)
-- 2026-09-26: Guadalajara vs Querétaro (jornada 10)
-- 2026-09-26: Cruz Azul vs Toluca (jornada 10)
+46
 - 2026-09-26: Atlante vs Monterrey (jornada 10)
 - 2026-09-26: Tijuana vs Atlas (jornada 10)
+- 2026-09-26: Guadalajara vs Querétaro (jornada 10)
+- 2026-09-26: Cruz Azul vs Toluca (jornada 10)
 - 2026-09-27: Tigres UANL vs Puebla (jornada 10)
+- 2026-09-27: León vs FC Juárez (jornada 10)
+- 2026-09-27: Pumas UNAM vs Atlético San Luis (jornada 10)
+- 2026-09-27: Santos Laguna vs Pachuca (jornada 10)
+- 2026-09-27: Necaxa vs América (jornada 10)
 - 2026-10-10: FC Juárez vs Tijuana (jornada 11)
 - 2026-10-10: Tigres UANL vs Toluca (jornada 11)
 - 2026-10-10: Querétaro vs Atlante (jornada 11)
 - 2026-10-10: Puebla vs León (jornada 11)
 - 2026-10-11: Atlas vs Guadalajara (jornada 11)
+- 2026-10-17: Santos Laguna vs Querétaro (jornada 12)
+- 2026-10-17: Atlante vs Pumas UNAM (jornada 12)
 - 2026-10-17: Necaxa vs Atlas (jornada 12)
 - 2026-10-17: Tijuana vs Puebla (jornada 12)
-- 2026-10-17: Atlante vs Pumas UNAM (jornada 12)
 - 2026-10-17: Guadalajara vs Tigres UANL (jornada 12)
-- 2026-10-17: Santos Laguna vs Querétaro (jornada 12)
-- 2026-10-21: Guadalajara vs Necaxa (jornada 13)
 - 2026-10-21: Tigres UANL vs León (jornada 13)
+- 2026-10-21: Guadalajara vs Necaxa (jornada 13)
 - 2026-10-21: FC Juárez vs Atlante (jornada 13)
 - 2026-10-21: Atlético San Luis vs Querétaro (jornada 13)
 - 2026-10-22: Toluca vs Tijuana (jornada 13)
+- 2026-10-24: Necaxa vs FC Juárez (jornada 14)
 - 2026-10-24: Atlante vs Atlético San Luis (jornada 14)
 - 2026-10-24: León vs Toluca (jornada 14)
-- 2026-10-24: Necaxa vs FC Juárez (jornada 14)
 - 2026-10-25: Monterrey vs Guadalajara (jornada 14)
 - 2026-10-25: Pumas UNAM vs Tigres UANL (jornada 14)
 - 2026-10-28: América vs Tijuana (jornada 7)
+- 2026-10-31: Atlético San Luis vs Atlas (jornada 15)
 - 2026-10-31: Puebla vs Pumas UNAM (jornada 15)
 - 2026-10-31: Pachuca vs Tigres UANL (jornada 15)
 - 2026-10-31: FC Juárez vs Querétaro (jornada 15)
-- 2026-10-31: Atlético San Luis vs Atlas (jornada 15)
 - 2026-11-01: Guadalajara vs Atlante (jornada 15)
-- 2026-11-07: Necaxa vs Tijuana (jornada 16)
-- 2026-11-07: Atlético San Luis vs FC Juárez (jornada 16)
 - 2026-11-07: Atlante vs Santos Laguna (jornada 16)
-- 2026-11-07: Tigres UANL vs Cruz Azul (jornada 16)
 - 2026-11-07: Atlas vs Pachuca (jornada 16)
+- 2026-11-07: Necaxa vs Tijuana (jornada 16)
+- 2026-11-07: Tigres UANL vs Cruz Azul (jornada 16)
+- 2026-11-07: Atlético San Luis vs FC Juárez (jornada 16)
 - 2026-11-14: Querétaro vs Monterrey (jornada 7)
 - 2026-11-21: Santos Laguna vs León (jornada 17)
-- 2026-11-21: Pachuca vs Toluca (jornada 17)
+- 2026-11-21: Tijuana vs Atlante (jornada 17)
 - 2026-11-21: Puebla vs Atlético San Luis (jornada 17)
 - 2026-11-21: FC Juárez vs Atlas (jornada 17)
-- 2026-11-21: Tijuana vs Atlante (jornada 17)
+- 2026-11-21: Pachuca vs Toluca (jornada 17)
